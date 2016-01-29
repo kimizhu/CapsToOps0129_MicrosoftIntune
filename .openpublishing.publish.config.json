@@ -1,0 +1,19 @@
+{
+  "build_entry_point": "op.ps1",
+  "docsets_to_publish": [
+    {
+      "docset_name": "CapsToOps0129_MicrosoftIntune",
+      "build_output_subfolder": "CapsToOps0129_MicrosoftIntune/v1",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "Reference": "Content"
+      }
+    }
+  ],
+  "notification_subscribers": [
+    "jasoz@microsoft.com"
+  ]
+}
