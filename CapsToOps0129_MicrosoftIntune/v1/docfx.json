@@ -7,31 +7,27 @@
         ],
         "exclude": [
           "**/obj/**"
-        ],
-        "src": null,
-        "dest": null
+        ]
       }
     ],
     "resource": [
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.bmp",
+          "**/*.PNG",
+          "**/*.JPG",
+          "**/*.GIF",
+          "**/*.BMP"
         ],
         "exclude": [
           "**/obj/**"
-        ],
-        "src": null,
-        "dest": null
+        ]
       }
     ],
-    "overwrite": [],
-    "externalReference": [],
-    "globalMetadata": {},
-    "fileMetadata": {},
-    "template": [
-      "op.html"
-    ],
+    "template": "op.html",
     "dest": "CapsToOps0129_MicrosoftIntune/v1"
   }
 }
