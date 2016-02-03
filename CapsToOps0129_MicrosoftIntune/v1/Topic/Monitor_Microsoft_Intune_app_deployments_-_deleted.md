@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Monitor Microsoft Intune app deployments - deleted
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 22f27f0e-6e30-4125-b6dd-2bcac6782814
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Monitor Microsoft Intune app deployments - deleted
 Insert introduction here.

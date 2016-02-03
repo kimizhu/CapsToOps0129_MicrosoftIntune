@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: robstack - V2 of Manage license agreements for computers
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cfde09cf-8f14-435c-a6b8-d53e1dfca644
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # robstack - V2 of Manage license agreements for computers
 [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] lets you add and manage license agreement information for software that was purchased through Microsoft Volume Licensing agreements, and for Microsoft or non-Microsoft software that was purchased by other means. You can also organize this information into logical groups.

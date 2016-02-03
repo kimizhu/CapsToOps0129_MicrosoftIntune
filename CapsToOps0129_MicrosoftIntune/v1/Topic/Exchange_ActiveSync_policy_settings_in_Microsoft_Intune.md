@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Exchange ActiveSync policy settings in Microsoft Intune
-search: na
-ms.date: 2016-01-22
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e9cbb826-b155-4df6-abf3-60c6f05b2783
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Exchange ActiveSync policy settings in Microsoft Intune
 Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] **Exchange ActiveSync** policy to configure settings that let you control a range of features and functionality on devices that are managed by Exchange ActiveSync.

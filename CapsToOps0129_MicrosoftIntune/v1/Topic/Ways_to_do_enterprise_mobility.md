@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Ways to do enterprise mobility
-search: na
-ms.date: 2016-01-06
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2d91b8b5-bf44-4562-ab4a-6611584f9674
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Ways to do enterprise mobility
 Microsoft provides several options for managing your mobile devices. We’ve provided information on this page to help you decide between these different options for meeting your enterprise mobility needs:

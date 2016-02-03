@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Set up Computer device management with Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c2102f63-2275-4a46-95bc-c50cf1cb3e4c
-ms.author: nathan.barnett@microsoft.com
+author: NathBarn
 ---
 # Set up Computer device management with Microsoft Intune
 Insert introduction here.

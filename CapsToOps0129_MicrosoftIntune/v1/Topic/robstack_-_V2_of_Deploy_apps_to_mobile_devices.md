@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: robstack - V2 of Deploy apps to mobile devices
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4048cae7-8624-4f9c-b5c6-a2bbd21a63c6
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # robstack - V2 of Deploy apps to mobile devices
 Now that you've [learned the basics](https://technet.microsoft.com/library/dn646955.aspx) about [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] app deployment, you'll now learn how to configure and deploy apps to mobile devices you manage. This generally involves three steps:

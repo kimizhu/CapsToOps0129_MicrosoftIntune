@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Run state
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f46fb18e-228c-4a2d-92e7-20734e9bdae3
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Run state
 Now that your [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] system is operational, and you depend on it for business-critical functions and for secure device usage, maintain a robust system.

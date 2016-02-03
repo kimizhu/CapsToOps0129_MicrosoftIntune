@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Proof of concept
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f3c97380-23ca-40da-acbc-78108507cad7
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Proof of concept
 The proof of concept phase should focus on determining the feasibility of your deployment to meet your company's requirements. This phase includes a simple topology designed to validate specific technical scenarios.  The deployment should be in a test environment and should not host any production users.

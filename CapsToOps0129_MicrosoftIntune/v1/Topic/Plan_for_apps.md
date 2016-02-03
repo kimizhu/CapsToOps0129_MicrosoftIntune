@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Plan for apps
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0615ebf2-f578-4ea5-a262-561be24309b3
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Plan for apps
 Insert introduction here.

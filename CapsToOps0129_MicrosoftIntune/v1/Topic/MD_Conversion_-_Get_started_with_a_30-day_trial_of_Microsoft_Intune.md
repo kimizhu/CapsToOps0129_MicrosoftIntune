@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Get started with a 30-day trial of Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: dd94b988-fc35-402c-959d-fc5570ed8f3b
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Get started with a 30-day trial of Microsoft Intune
 Setting up a free Microsoft Intune 30-day trial to manage your mobile devices and computers is quick and easy. With just a few simple steps in the trial, you can add up to 100 users and devices, set up groups, configure compliance policies, and enroll and manage mobile devices and computers. In this topic, you'll learn the basics  to get an Intune trial up and running and get an overview of the service so you can evaluate Intune's features and capabilities.

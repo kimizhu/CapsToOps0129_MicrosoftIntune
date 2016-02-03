@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Enable access to company resources using certificate profiles with Microsoft
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 10026879-a70a-40d8-8d61-4196b4451d4e
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Enable access to company resources using certificate profiles with Microsoft
 Certificate profiles are [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] policies that configure managed devices with the certificates they need so device users can connect to your on-premises company resources using connections like Wi-Fi or VPN. When you deploy certificate profiles, you provision devices with a trusted root certificate for your PKI, and configure them to request device specific certificates.

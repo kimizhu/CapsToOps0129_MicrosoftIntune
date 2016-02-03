@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Troubleshoot email profiles in Microsoft Intune
-search: na
-ms.date: 2016-01-25
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f5c944ea-32a6-48af-bb57-16d5f1f3c588
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Troubleshoot email profiles in Microsoft Intune
 Listed here are some email profile issues and how to troubleshoot and resolve them..

@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Deploy apps to Windows PCs in Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2eff401c-2bf4-4326-a805-620c9024c435
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Deploy apps to Windows PCs in Microsoft Intune
 Now that you've [learned the basics](https://technet.microsoft.com/library/dn646955.aspx) about [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] app deployment, in this topic, you'll learn how to actually configure and deploy apps to Windows PCs you manage. This generally involves three steps:

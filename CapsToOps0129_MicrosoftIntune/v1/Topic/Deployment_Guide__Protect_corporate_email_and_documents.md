@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Deployment Guide: Protect corporate email and documents
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d755c9e2-5ccc-4d37-a28d-1fb34568a2e3
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Deployment Guide: Protect corporate email and documents
 Insert introduction here.

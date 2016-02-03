@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Help users connect to their work using VPN profiles with Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 39e3b32b-51e6-4da8-9762-f0f4872bf0a9
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Help users connect to their work using VPN profiles with Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

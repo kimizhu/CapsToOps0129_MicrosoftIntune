@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - What to tell your end users about using Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e91b16d1-220d-4673-b0d9-6fc98c3167de
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - What to tell your end users about using Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

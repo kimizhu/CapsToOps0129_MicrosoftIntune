@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: This is a test for Nathan&#39;s Markdown
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 711a1bf8-4a1f-465c-9afd-091e09aab245
-ms.author: nathan.barnett@microsoft.com
+author: NathBarn
 ---
 # This is a test for Nathan&#39;s Markdown
 <?xml version='1.0' encoding='UTF-8'?>

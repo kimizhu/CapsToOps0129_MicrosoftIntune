@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: What happens if you reset a personal device using the Company Portal
-search: na
-ms.date: 2016-01-26
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: acd288a0-2157-47bd-8e50-88baa7405483
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 ---
 # What happens if you reset a personal device using the Company Portal
 When you use the Company Portal app to reset your personal device, some apps and settings on your device may be deleted, including some of your personal data. What happens on each device depends on the type of device you have and how you are using the device. See the following links for more information.

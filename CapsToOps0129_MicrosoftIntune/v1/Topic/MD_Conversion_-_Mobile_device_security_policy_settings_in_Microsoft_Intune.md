@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Mobile device security policy settings in Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cf3cc1ba-ffe9-4c9a-b005-f24e9afd1ee6
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Mobile device security policy settings in Microsoft Intune
 > [!IMPORTANT]

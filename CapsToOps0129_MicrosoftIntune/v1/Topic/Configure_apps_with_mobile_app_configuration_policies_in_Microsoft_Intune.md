@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Configure apps with mobile app configuration policies in Microsoft Intune
-search: na
-ms.date: 2015-11-17
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fc6b645a-e837-4b2a-a10f-144065cbd8dd
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Configure apps with mobile app configuration policies in Microsoft Intune
 Use mobile app configuration policies in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] to supply settings that might be required when the user runs an app. For example, an app might require the user to specify:

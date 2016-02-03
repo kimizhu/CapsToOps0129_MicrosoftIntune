@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Introduction to Microsoft Intune
-search: na
-ms.date: 2016-01-28
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3b4e778d-ac13-4c23-974f-5122f74626bc
-ms.author: lindavr@microsoft.com
+author: Lindavr
 robots: noindex,nofollow
 ---
 # Introduction to Microsoft Intune

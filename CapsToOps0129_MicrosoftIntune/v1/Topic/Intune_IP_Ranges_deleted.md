@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Intune IP Ranges_deleted
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 59cb37ef-a0d1-4006-a4f0-3c30557de24d
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Intune IP Ranges_deleted
 <?xml version='1.0' encoding='UTF-8'?>

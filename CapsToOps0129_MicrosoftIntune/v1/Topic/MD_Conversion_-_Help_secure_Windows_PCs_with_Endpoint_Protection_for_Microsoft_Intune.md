@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Help secure Windows PCs with Endpoint Protection for Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5e755aee-0f43-410b-9d65-5989cf568e3e
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Help secure Windows PCs with Endpoint Protection for Microsoft Intune
 [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] can help you to secure your managed computers in a number of ways, including Endpoint Protection which provides real-time protection against malware threats, keeps malware definitions up-to date, and automatically scans computers. [!INCLUDE[epshort](../Token/epshort_md.md)] also provides tools that help you to manage and monitor malware attacks

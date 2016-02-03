@@ -1,14 +1,12 @@
 ---
-description: na
-keywords: na
 title: How to set the password on your Android device
-search: na
-ms.date: 4/30/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9f8b62c5-5b22-4c6c-bf87-4c0cd886371a
-ms.author: obsolete_aaronca@microsoft.com
 ---
 # How to set the password on your Android device
 To reconnect to your work, you’ll need to set the password on your device by following these instructions:

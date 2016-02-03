@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Set your MDM Management Authority
-search: na
-ms.date: 2015-09-16
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1bc5a59e-8402-4e46-a5f6-95af6147118b
-ms.author: nathan.barnett@microsoft.com
+author: NathBarn
 ---
 # Set your MDM Management Authority
 Before you can enroll mobile devices, you must declare [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] or [!INCLUDE[cmshort](../Token/cmshort_md.md)] as your *mobile device management authority*. A  *mobile device management authority* defines the single management service with permission to manage a set of devices.  Solutions for the mobile device management authority include [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], Configuration Manager with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], or Office 365 MDM solutions.

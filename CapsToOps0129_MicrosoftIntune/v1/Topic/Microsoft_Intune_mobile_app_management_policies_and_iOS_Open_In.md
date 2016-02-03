@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Microsoft Intune mobile app management policies and iOS Open In
-search: na
-ms.date: 2015-11-17
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3a4515c1-b325-4ac1-9f0a-45ac27e00681
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Microsoft Intune mobile app management policies and iOS Open In
 Part of protecting your company data requires making sure that file transfers are restricted to apps that are managed by you.   You can manage apps in the following ways:

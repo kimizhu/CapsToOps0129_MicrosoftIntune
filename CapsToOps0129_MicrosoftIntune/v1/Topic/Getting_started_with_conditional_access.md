@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Getting started with conditional access
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1aeb7c80-8bc7-447d-b4df-6d3e084d67a8
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Getting started with conditional access
 Insert introduction here.

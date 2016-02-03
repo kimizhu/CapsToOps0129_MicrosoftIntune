@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Terms of Use
-search: na
-ms.date: 4/30/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 189c42d1-ed55-4ae3-9685-17a9fe87b5e2
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Terms of Use
 

@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: RASK core components
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1dcef89a-72d9-4634-8058-fd5d58a19ffd
-ms.author: nbigman@microsoft.com
+author: Nbigman
 robots: noindex,nofollow
 ---
 # RASK core components

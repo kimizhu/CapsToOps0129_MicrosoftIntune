@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: robstack - V2 of Deploy apps to computers
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6059f907-2f74-45b8-a415-302b24160b10
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # robstack - V2 of Deploy apps to computers
 Now that you've [learned the basics](https://technet.microsoft.com/library/dn646955.aspx) about [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] app deployment, in this topic, you'll learn how to actually configure and deploy apps to Windows PCs you manage. This generally involves three steps:

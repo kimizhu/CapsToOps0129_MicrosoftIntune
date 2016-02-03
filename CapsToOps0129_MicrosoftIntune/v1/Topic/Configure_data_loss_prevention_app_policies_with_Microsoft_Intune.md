@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Configure data loss prevention app policies with Microsoft Intune
-search: na
-ms.date: 2015-11-17
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ab6cd622-b738-4a63-9c91-56044aaafa6d
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Configure data loss prevention app policies with Microsoft Intune
 Use mobile app management policies in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] to apply restrictions to apps that help protect your company data.

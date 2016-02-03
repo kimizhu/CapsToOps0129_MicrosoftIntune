@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Upgrade Windows devices to the latest version with the edition upgrade policy in Microsoft Intune
-search: na
-ms.date: 2016-01-29
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8589866a-3f13-489b-a5cd-cee017d16d54
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Upgrade Windows devices to the latest version with the edition upgrade policy in Microsoft Intune
 The [!INCLUDE[wit_firstref](/Token/wit_firstref.xml)] **Edition Upgrade Policy** lets you automatically upgrade devices that run one of the following Windows 10 versions to a newer edition:

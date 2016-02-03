@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Windows PC management capabilities in Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1e252864-2f9a-4425-acc0-7637edfa1cd7
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Windows PC management capabilities in Microsoft Intune
 You can use [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] to manage Windows PCs with the Intune client installed. PC management lets you deploy apps and software including software updates to your managed PCs, manage Endpoint Protection and the Windows Firewall, and more.  Below are a list of supported configurations and capabilities.

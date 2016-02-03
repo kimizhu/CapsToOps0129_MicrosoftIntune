@@ -1,13 +1,13 @@
 ---
-description: na
-keywords: na
 title: Decide how to prepare apps for mobile application management with Microsoft Intune
-search: na
-ms.date: 2016-01-05
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 29e22121-8268-48b5-a671-f940a6be1d24
+author: Staciebarker
 ---
 # Decide how to prepare apps for mobile application management with Microsoft Intune
 You can enable your apps to use mobile application management policies by using either the Intune App Wrapping Tool or the Intune App SDK. Use this information to learn about these two methods and when to use them.

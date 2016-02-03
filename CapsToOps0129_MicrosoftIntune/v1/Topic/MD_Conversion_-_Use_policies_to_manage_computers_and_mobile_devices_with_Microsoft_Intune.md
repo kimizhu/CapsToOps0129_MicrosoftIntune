@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Use policies to manage computers and mobile devices with Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b7dbb479-d3c8-4ac0-8140-a7a68120e598
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Use policies to manage computers and mobile devices with Microsoft Intune
 [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**Policies** are groups of settings that control features on mobile devices and computers. You create policies using templates that contain recommended or customized settings, and then deploy them to device or user groups.

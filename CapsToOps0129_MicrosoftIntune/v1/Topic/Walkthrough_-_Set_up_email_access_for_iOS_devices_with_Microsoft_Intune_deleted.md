@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Walkthrough - Set up email access for iOS devices with Microsoft Intune_deleted
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 59984703-26bf-4ef3-aa9b-734598cc4857
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Walkthrough - Set up email access for iOS devices with Microsoft Intune_deleted
 <?xml version='1.0' encoding='UTF-8'?>

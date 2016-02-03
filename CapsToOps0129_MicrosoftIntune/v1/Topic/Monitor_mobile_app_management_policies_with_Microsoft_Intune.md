@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Monitor mobile app management policies with Microsoft Intune
-search: na
-ms.date: 2015-11-17
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d3aa6c74-6b5d-4b50-aa66-a040ec44393e
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Monitor mobile app management policies with Microsoft Intune
 Use the information in this topic to help you monitor your mobile application management policies in the Azure preview portal.

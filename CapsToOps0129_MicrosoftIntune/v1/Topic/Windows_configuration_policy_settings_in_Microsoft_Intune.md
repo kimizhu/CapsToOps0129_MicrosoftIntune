@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Windows configuration policy settings in Microsoft Intune
-search: na
-ms.date: 2016-01-22
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6982a2bc-aafa-475a-9236-4840b709e5a1
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Windows configuration policy settings in Microsoft Intune
 Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] **Windows general configuration policy** to configure settings for enrolled Windows 8, and Windows 8.1 devices:

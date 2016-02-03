@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Android custom policy settings in Microsoft Intune
-search: na
-ms.date: 2016-01-22
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 15904440-5a05-47c9-818e-48073b4090e7
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Android custom policy settings in Microsoft Intune
 Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] **Android custom configuration policy** to deploy OMA-URI (Open Mobile Alliance Uniform Resource Identifier) settings that can be used to control features on Android devices. These are standard settings that many mobile device manufacturers use to control device features.

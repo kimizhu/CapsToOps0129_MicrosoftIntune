@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Troubleshoot client setup in Microsoft Intune
-search: na
-ms.date: 2016-01-14
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e46d292b-1d16-46db-a87f-d53eefa4d22a
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Troubleshoot client setup in Microsoft Intune
 

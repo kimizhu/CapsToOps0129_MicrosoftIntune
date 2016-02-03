@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: What Happens if You Remove a Personal Device Using the Company Portal
-search: na
-ms.date: 2016-01-25
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a3ab3bcc-ac45-4df3-88cc-5eb2ba5c3aed
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 ---
 # What Happens if You Remove a Personal Device Using the Company Portal
 Use the link that matches the type of device you're using:

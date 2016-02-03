@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: MICROSOFT SOFTWARE SUPPLEMENTAL NOTICE
-search: na
-ms.date: 4/30/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 02b71ab4-8279-474a-af59-839f4e48e0e0
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # MICROSOFT SOFTWARE SUPPLEMENTAL NOTICE
 

@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Prepare Android apps for mobile application management with the Microsoft Intune App Wrapping Tool
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ab698da6-c09d-4826-b1aa-9f20d5867768
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Prepare Android apps for mobile application management with the Microsoft Intune App Wrapping Tool
 Use the **Microsoft Intune App Wrapping Tool for Android** to modify the behavior of your in-house Android apps to let you configure features of the app without modifying the code of the app itself.

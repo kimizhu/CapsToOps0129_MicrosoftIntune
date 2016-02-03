@@ -1,9 +1,8 @@
 ---
-description: na
-keywords: na
 title: 30-day trial revision
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ba6709cf-a36c-45b5-93f3-2aef48a4598a

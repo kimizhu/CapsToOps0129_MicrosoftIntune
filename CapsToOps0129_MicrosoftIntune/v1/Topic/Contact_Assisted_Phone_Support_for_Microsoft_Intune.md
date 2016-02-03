@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Contact Assisted Phone Support for Microsoft Intune
-search: na
-ms.date: 4/30/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 01c096eb-088b-4d2b-a1fa-dce6cdb12294
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Contact Assisted Phone Support for Microsoft Intune
 

@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Get notified by Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7f2aa57f-b886-441e-b103-6231c6f54855
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Get notified by Microsoft Intune
 Alerts keep you in touch with what's happening in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)].

@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Windows Phone custom policy settings in Microsoft Intune
-search: na
-ms.date: 2016-01-22
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f64674ff-f2a6-471c-82a5-bcff23c7514d
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Windows Phone custom policy settings in Microsoft Intune
 Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] **Windows Phone custom configuration policy** to deploy OMA-URI (Open Mobile Alliance Uniform Resource Identifier) settings that can be used to control features on **Windows Phone 8.1 devices**. These are standard settings that many mobile device manufacturers use to control device features.

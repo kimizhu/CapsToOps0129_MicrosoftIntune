@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Computer management capabilities in Microsoft Intune - deleted
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 12a7e20e-c0c1-4575-8e90-78ae316b4747
-ms.author: nathan.barnett@microsoft.com
+author: NathBarn
 ---
 # Computer management capabilities in Microsoft Intune - deleted
 Devices that run Windows 8.1 and Windows 10 can be managed using the Intune client. You can deploy software to your managed computers in a variety of different formats like a Windows Installer, or Windows app package file. You can also deploy links to applications in a store, or links to Web applications.

@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Move from a Microsoft Intune free trial to a paid subscription
-search: na
-ms.date: 4/24/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 05a1c558-1332-4489-9afe-ecb1060df0cb
-ms.author: nbigman@microsoft.com
+author: Nbigman
 robots: noindex,nofollow
 ---
 # Move from a Microsoft Intune free trial to a paid subscription

@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Manage Internet access using managed browser policies with Microsoft Intune
-search: na
-ms.date: 2016-01-11
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: dc946303-e09b-4d73-8bf4-87742299bc54
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Manage Internet access using managed browser policies with Microsoft Intune
 The managed browser is a web browsing application that you can deploy in your organization using [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]. A managed browser policy configures an allow list or a block list that restricts the web sites that users of the managed browser can visit.

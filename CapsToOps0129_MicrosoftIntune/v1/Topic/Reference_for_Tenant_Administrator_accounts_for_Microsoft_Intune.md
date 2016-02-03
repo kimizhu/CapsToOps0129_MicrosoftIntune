@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Reference for Tenant Administrator accounts for Microsoft Intune
-search: na
-ms.date: 2015-08-01
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e4eff7b9-4dcd-4959-b1d6-97dc4640dbe2
-ms.author: brenduns@microsoft.com
+author: Staciebarker
 ---
 # Reference for Tenant Administrator accounts for Microsoft Intune
 Each tenant administrator is assigned one of the following roles:

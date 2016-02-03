@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Android configuration policy settings in Microsoft Intune
-search: na
-ms.date: 2016-01-21
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 71cc39cf-e726-40fd-8d08-78776e099a4b
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Android configuration policy settings in Microsoft Intune
 Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] **Android general configuration policy** to configure settings for:

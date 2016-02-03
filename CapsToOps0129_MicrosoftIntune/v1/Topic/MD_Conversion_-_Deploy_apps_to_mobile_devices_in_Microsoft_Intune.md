@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Deploy apps to mobile devices in Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a7252faa-5729-4fa0-a730-197b69c6ea07
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Deploy apps to mobile devices in Microsoft Intune
 Now that you've [learned the basics](https://technet.microsoft.com/library/dn646955.aspx) about [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] app deployment, you'll now learn how to configure and deploy apps to devices enrolled with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. This generally involves three steps:

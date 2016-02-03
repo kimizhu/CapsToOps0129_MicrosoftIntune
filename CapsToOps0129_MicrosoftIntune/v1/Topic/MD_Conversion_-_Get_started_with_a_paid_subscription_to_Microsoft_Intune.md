@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Get started with a paid subscription to Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 60460791-cf48-4015-ac16-1e029780cf8d
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Get started with a paid subscription to Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

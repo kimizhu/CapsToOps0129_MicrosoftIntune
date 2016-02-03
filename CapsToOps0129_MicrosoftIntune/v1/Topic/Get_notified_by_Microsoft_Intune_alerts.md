@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Get notified by Microsoft Intune alerts
-search: na
-ms.date: 2016-01-22
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 396ea714-0433-4bd5-a934-8d0b477f28e4
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Get notified by Microsoft Intune alerts
 Alerts keep you in touch with what's happening in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)].

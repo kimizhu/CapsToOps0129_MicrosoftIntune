@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Windows PC management capabilities in Microsoft Intune
-search: na
-ms.date: 2015-11-17
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 77fa5c66-a87c-47df-964c-800eea509b33
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Windows PC management capabilities in Microsoft Intune
 You can use [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] to manage Windows PCs with the Intune client installed. PC management lets you deploy apps and software including software updates to your managed PCs, manage Endpoint Protection and the Windows Firewall, and more.  Below are a list of supported configurations and capabilities.

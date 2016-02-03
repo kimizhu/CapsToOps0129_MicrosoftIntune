@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Enable access to company resources with Microsoft Intune - deleted
-search: na
-ms.date: 5/18/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-Intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5b090c5a-6f12-4e60-ace0-c9929afaa9a3
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Enable access to company resources with Microsoft Intune - deleted
 Use the sections in this guide to help you enable your users to access company information from their mobile devices using [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]

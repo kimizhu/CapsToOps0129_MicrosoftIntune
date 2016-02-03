@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Mobile device management with Exchange ActiveSync and Microsoft Intune
-search: na
-ms.date: 2016-01-19
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: eb9618d2-dc90-48be-b921-8044b7e693ac
-ms.author: nathan.barnett@microsoft.com
+author: NathBarn
 ---
 # Mobile device management with Exchange ActiveSync and Microsoft Intune
 For [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] to directly manage mobile devices, users need to enroll devices into [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]. For mobile devices that users have not enrolled you can enable Exchange ActiveSync management using the Exchange connector. Exchange devices can be managed in both on premises servers and for hosted Exchange on Microsoft Office 365 in the cloud. The Exchange connector connects you with your Exchange deployment and lets you manage mobile devices through the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] console, where you have the following capabilities:
@@ -81,13 +80,16 @@ To set up a connection that enables [!INCLUDE[wit_nextref](../Token/wit_nextref_
 
 1.  Open the [!INCLUDE[wit_adminconsole](../Token/wit_adminconsole_md.md)].
 
-2.  In the workspace shortcuts pane, click **Administration**.
+2.  In the workspace shortcuts pane, choose **ADMIN**.
+![IntuneSA1aclickADMIN](/Image/IntuneSA1aclickADMIN.png)
 
-3.  In the navigation pane, under **Mobile Device Management**, expand **Microsoft Exchange** and then click **Setup Exchange Connection**.
+3.  In the navigation pane, under **Mobile Device Management**, expand **Microsoft Exchange** and then choose **Setup Exchange Connection**.
+![IntuneSA1bSetupExchangeConnection](/Image/IntuneSA1bSetupExchangeConnection.png)
 
-4.  On the **Setup Exchange Connection** page, click **Download On-Premises Connector**.
+4.  On the **Setup Exchange Connection** page, choose **Download On-Premises Connector**.
+![IntuneSA1cOnpremConnector](/Image/IntuneSA1cOnpremConnector.png)
 
-5.  The On-Premises Connector software is contained in a compressed (.zip) folder that can be opened or saved. In the **File Download** dialog box, click **Save** to store the compressed folder to a secure location.
+5.  The On-Premises Connector software is contained in a compressed (.zip) folder that can be opened or saved. In the **File Download** dialog box, choose **Save** to store the compressed folder to a secure location.
 
 > [!IMPORTANT]
 > Do not rename or move the extracted files or the On-Premises Connector software installation will not succeed.
@@ -111,7 +113,8 @@ Perform the following steps to install the [!INCLUDE[wit_nextref](../Token/wit_n
 
 ##### Configure the On-Premises Exchange Connector
 
-1.  In the **Exchange server** field, select your Exchange server environment type, either **On-premises Exchange Server** or select **Hosted Exchange Server** for Exchange on Microsoft Office 365.
+1.  In the **Exchange server** field, select your Exchange server environment type, either **On-premises Microsoft Exchange Server** or select **Hosted Microsoft Exchange Server** for Exchange on Microsoft Office 365.
+![IntuneSA1dconfigureExchConnector](/Image/IntuneSA1dconfigureExchConnector.png)
 
 2.  For an on-premises Exchange server, provide either the server name or fully qualified domain name of the Exchange server that hosts the Client Access server role.
 
@@ -119,13 +122,13 @@ Perform the following steps to install the [!INCLUDE[wit_nextref](../Token/wit_n
 
     1.  Open the Outlook Web App for Office 365.
 
-    2.  Click the “?” icon at the top left, and select **About**.
+    2.  Choose the “?” icon at the top left, and select **About**.
 
     3.  Locate the **POP External Server** value.
 
 4.  For a dedicated, hosted Exchange server, provide either the server name or the fully qualified domain name of the dedicated Exchange server that hosts the Client Access server role.
 
-5.  Click **Proxy Server** to specify proxy server settings for your hosted Exchange server.
+5.  Choose **Proxy Server** to specify proxy server settings for your hosted Exchange server.
 
     1.  Select **Use a proxy server when synchronizing mobile device information**.
 
@@ -133,7 +136,7 @@ Perform the following steps to install the [!INCLUDE[wit_nextref](../Token/wit_n
 
     3.  If it is necessary to provide user credentials to access the proxy server, select Use credentials to connect to the proxy server and enter the **domain\user** and the **password**.
 
-    4.  Click **OK**.
+    4.  Choose **OK**.
 
 6.  Provide the credentials necessary to connect to your Exchange server.
 
@@ -143,7 +146,7 @@ Perform the following steps to install the [!INCLUDE[wit_nextref](../Token/wit_n
 
 8.  In the **Password** field, provide the password for this account to enable [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] to access the Exchange Server.
 
-9. Click **Connect**.
+9. Choose **Connect**.
 
     It may take a few minutes while the connection is set up.
 
@@ -151,7 +154,8 @@ Perform the following steps to install the [!INCLUDE[wit_nextref](../Token/wit_n
 
 After the [!INCLUDE[wit_exch_2](../Token/wit_exch_2_md.md)] sets up the connection, mobile devices associated with users that are managed in [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] are automatically synchronized and added to the [!INCLUDE[wit_adminconsole](../Token/wit_adminconsole_md.md)]. This synchronization may take some time to complete.
 
-To view the status of the connection and the last successful synchronization attempt, in the [!INCLUDE[wit_adminconsole](../Token/wit_adminconsole_md.md)] click the **Administration** workspace, and under **Mobile Device Management**, click **Exchange**.
+To view the status of the connection and the last successful synchronization attempt, in the [!INCLUDE[wit_adminconsole](../Token/wit_adminconsole_md.md)] choose the **ADMIN** workspace, and under **Mobile Device Management**, choose **Microsoft Exchange**.
+![IntuneSA2aServiceToServiceConnectorVerification](/Image/IntuneSA2aServiceToServiceConnectorVerification.PNG)
 
 > [!NOTE]
 > If you have installed the On-Premises Connector, and if at some point you delete the Exchange connection, you must uninstall the On-Premises Connector from the computer onto which it was installed.
@@ -191,17 +195,18 @@ You must create an Exchange Online user account that is used by the [!INCLUDE[wi
 
 1.  Open the [!INCLUDE[wit_adminconsole](../Token/wit_adminconsole_md.md)].
 
-2.  In the workspace shortcuts pane, click **Administration**.
+2.  In the workspace shortcuts pane, choose **ADMIN**.
 
-3.  In the navigation pane, under **Mobile Device Management**, expand **Microsoft Exchange** and then click **Set Up Exchange Connection**.
+3.  In the navigation pane, under **Mobile Device Management**, expand **Microsoft Exchange** and then choose **Set Up Exchange Connection**.
 
-4.  On the **Set Up Exchange Connection** page, click **Set Up Service to Service Connector**.
+4.  On the **Set Up Exchange Connection** page, choose **Set Up Service to Service Connector**.
+![IntuneSA5cServiceToServiceConnector](/Image/IntuneSA5cServiceToServiceConnector.PNG)
 
 The Service to Service Connector will automatically configure and synchronize with your Hosted Exchange environment.
 
 ## <a name="bkmk_val_ex"></a>Validate your Exchange connection
 
--   After you have successfully configured the [!INCLUDE[wit_exch_2](../Token/wit_exch_2_md.md)], in the [!INCLUDE[wit_adminconsole](../Token/wit_adminconsole_md.md)] click the **Administration** workspace, and under **Mobile Device Management**, click **Microsoft Exchange** and validate that the details you provided appear under **Exchange Connection Information**.
+-   After you have successfully configured the [!INCLUDE[wit_exch_2](../Token/wit_exch_2_md.md)], in the [!INCLUDE[wit_adminconsole](../Token/wit_adminconsole_md.md)] choose the **ADMIN** workspace, and under **Mobile Device Management**, choose **Microsoft Exchange** and validate that the details you provided appear under **Exchange Connection Information**.
 
 -   You can also check the time and date of the last successful synchronization attempt.
 
@@ -241,9 +246,9 @@ The following procedure describes how to create a custom rule.
 
 1.  Open the [!INCLUDE[wit_adminconsole](../Token/wit_adminconsole_md.md)].
 
-2.  In the workspace shortcuts pane, click the **Policy** icon and click **Exchange Access for Mobile Devices**.
+2.  In the workspace shortcuts pane, choose the **Policy** icon and choose **Exchange Access for Mobile Devices**.
 
-3.  In the **Default Rule** list, select the Access Rule that you wish to apply to all mobile devices not covered by a rule or personal exemption. Click **Save**.
+3.  In the **Default Rule** list, select the Access Rule that you wish to apply to all mobile devices not covered by a rule or personal exemption. Choose **Save**.
 
 The following procedure describes how to create a custom rule.
 
@@ -251,9 +256,9 @@ The following procedure describes how to create a custom rule.
 
 1.  Open the [!INCLUDE[wit_adminconsole](../Token/wit_adminconsole_md.md)].
 
-2.  In the workspace shortcuts pane, click the **Policy** icon and click **Exchange Access for Mobile Devices**.
+2.  In the workspace shortcuts pane, choose the **Policy** icon and choose **Exchange Access for Mobile Devices**.
 
-3.  In the **Custom Rules** list, Click **Add Rule** and create a custom rule. Click **Save**.
+3.  In the **Custom Rules** list, Choose **Add Rule** and create a custom rule. Choose **Save**.
 
 ## See Also
 [Get ready to enroll devices in Microsoft Intune](../Topic/Get_ready_to_enroll_devices_in_Microsoft_Intune.md)

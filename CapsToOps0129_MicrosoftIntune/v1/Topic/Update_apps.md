@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Update apps
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3448bb8f-a370-4ce4-8c82-1921ea8dd23f
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Update apps
 Insert introduction here.

@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Enable access to company resources with Microsoft Intune
-search: na
-ms.date: 2015-11-17
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3dd8dd4e-e165-4d0c-97b7-b3e86ebab909
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Enable access to company resources with Microsoft Intune
 [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**resource access profiles** work together to help your users gain access to the files and resources they need to do their work successfully, wherever they are.

@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Manage device compliance policies for Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: df72a393-4ec1-4597-992a-38550efb4f66
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Manage device compliance policies for Microsoft Intune
 **Compliance policies** define the rules and settings that a device must comply with in order to be considered compliant by conditional access polices. You can also use compliance policies to monitor and remediate compliant issues with devices independently of conditional access.

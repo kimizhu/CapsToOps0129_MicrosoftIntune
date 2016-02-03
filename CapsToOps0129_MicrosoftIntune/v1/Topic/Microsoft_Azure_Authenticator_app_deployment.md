@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Microsoft Azure Authenticator app deployment
-search: na
-ms.date: 2015-08-03
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: db9a294a-8409-450b-9b83-808a43a64788
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 robots: noindex,nofollow
 ---
 # Microsoft Azure Authenticator app deployment

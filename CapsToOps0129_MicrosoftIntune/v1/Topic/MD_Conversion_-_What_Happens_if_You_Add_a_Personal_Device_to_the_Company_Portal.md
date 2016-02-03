@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - What Happens if You Add a Personal Device to the Company Portal
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d55a0c1d-3e9f-40d8-a12f-2db46f4cbd43
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - What Happens if You Add a Personal Device to the Company Portal
 If you add a device to the company portal, you can easily find company apps to install, see other devices you’ve added, and find contact information for your IT administrator. You are also giving your IT administrator permission to manage your device to help protect the company information on the device. Each device is added a little differently, some from settings on the device and others by downloading an app from the device’s app store.

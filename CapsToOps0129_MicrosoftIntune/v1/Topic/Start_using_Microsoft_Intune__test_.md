@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Start using Microsoft Intune &lt;test&gt;
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7a1c47bf-f18f-409d-91bd-ae65a518a489
-ms.author: dougeby@microsoft.com
+author: Dougeby
 robots: noindex,nofollow
 ---
 # Start using Microsoft Intune &lt;test&gt;

@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Microsoft Intune policy settings reference
-search: na
-ms.date: 2015-09-01
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 59e512be-5950-4ce5-8c00-fc3631ba2a42
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 robots: noindex,nofollow
 ---
 # Microsoft Intune policy settings reference

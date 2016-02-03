@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: How you can work on your device and keep your company safe
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 10411400-d177-4526-8928-e2f356986a64
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # How you can work on your device and keep your company safe
 <?xml version="1.0" encoding="UTF-8"?>

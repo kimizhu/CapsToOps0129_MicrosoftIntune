@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Configure access to corporate email using email profiles with Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f9b4acc1-50ec-4754-a612-0032de6b406d
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Configure access to corporate email using email profiles with Microsoft Intune
 Email profiles in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] help you create, deploy and monitor Exchange ActiveSync email settings on devices. This lets user’s access corporate email on their personal devices without any required setup on their part.

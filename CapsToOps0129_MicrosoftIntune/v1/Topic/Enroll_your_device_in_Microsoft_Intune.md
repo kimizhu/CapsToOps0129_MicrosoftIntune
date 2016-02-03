@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Enroll your device in Microsoft Intune
-search: na
-ms.date: 2015-11-19
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8373c587-b1ad-4c25-93f9-e0148834d495
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 ---
 # Enroll your device in Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - What to know before setting up Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 55112a2a-ccee-499f-975a-40a1b89e080f
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - What to know before setting up Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

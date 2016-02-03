@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Passcode reset and remote lock
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2c1e0dd3-23de-4182-9f68-007bc9e62363
-ms.author: lindavr@microsoft.com
+author: Lindavr
 ---
 # Passcode reset and remote lock
 Insert introduction here.

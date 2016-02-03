@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Resources to help you solve problems during setup of Microsoft Intune
-search: na
-ms.date: 5/18/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6865f1fb-c2c1-47af-83f5-5704e7210a49
-ms.author: nbigman@microsoft.com
+author: Nbigman
 robots: noindex,nofollow
 ---
 # Resources to help you solve problems during setup of Microsoft Intune

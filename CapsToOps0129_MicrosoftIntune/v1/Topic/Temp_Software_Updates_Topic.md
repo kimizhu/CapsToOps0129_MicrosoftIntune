@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Temp Software Updates Topic
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 82b7fc4b-52e9-46bb-ad8a-4c6f752c5485
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Temp Software Updates Topic
 ## Improving Intune performance when you have many software updates to deploy

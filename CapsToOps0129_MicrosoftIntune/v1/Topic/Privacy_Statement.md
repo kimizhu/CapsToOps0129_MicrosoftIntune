@@ -1,14 +1,12 @@
 ---
-description: na
-keywords: na
 title: Privacy Statement
-search: na
-ms.date: 4/30/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8dfc4da2-0be5-4f8f-814f-a68d21c27ab8
-ms.author: obsolete_aaronca@microsoft.com
 ---
 # Privacy Statement
 

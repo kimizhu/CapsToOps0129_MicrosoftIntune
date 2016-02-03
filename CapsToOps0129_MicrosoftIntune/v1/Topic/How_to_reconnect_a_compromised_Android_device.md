@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: How to reconnect a compromised Android device
-search: na
-ms.date: 4/30/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ade7353e-7338-484d-a50f-b91146d5fc46
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 robots: noindex,nofollow
 ---
 # How to reconnect a compromised Android device

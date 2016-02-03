@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Mobile app management policies in the Intune Console
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 643ffcdd-7040-4fa8-bb58-c99f52efad4f
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Mobile app management policies in the Intune Console
 Insert introduction here.

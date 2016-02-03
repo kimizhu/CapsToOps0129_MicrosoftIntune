@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Manage apps you purchased through a volume-purchase program with Microsoft Intune
-search: na
-ms.date: 2016-01-06
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9797054d-7e97-4467-96f7-d061a296ed45
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Manage apps you purchased through a volume-purchase program with Microsoft Intune
 Some app stores give you the ability to purchase multiple licenses for an app you want to run in your company. This helps you reduce the administrative overhead of tracking multiple purchased copies of apps.

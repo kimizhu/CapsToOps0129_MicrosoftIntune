@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Help for Microsoft Intune Partners
-search: na
-ms.date: 4/30/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9cb7da1d-8ecb-4b08-818a-54782e846def
-ms.author: brenduns@microsoft.com
+author: Brenduns
 ---
 # Help for Microsoft Intune Partners
 The partner portal and its services are an extension of your [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] subscription that is associated with your partner identity. When you sign in to the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] account portal with a work account that is associated with your partner ID, you have access to the partner portal by using the **Partner** link at the top of the account portal.

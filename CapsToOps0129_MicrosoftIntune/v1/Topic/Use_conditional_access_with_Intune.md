@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: Use conditional access with Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1d876fb1-a857-4350-8970-3eb38c483111
-ms.author: v-craic@microsoft.com
 ---
 # Use conditional access with Intune
 More and more, companies are allowing employees to increase their productivity by accessing email, documents, and company resources through their mobile devices. However, the amount of confidential data that is stored within corporate emails and documents presents a significant security risk for companies.

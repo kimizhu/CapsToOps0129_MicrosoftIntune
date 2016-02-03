@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Retire apps
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 201dadbc-8812-4a8b-a79c-a328829fec4f
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Retire apps
 Insert introduction here.

@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Third-Party Software Notices and Information
-search: na
-ms.date: 5/11/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 517882a7-5281-40dc-9429-85ccb0fb4e19
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Third-Party Software Notices and Information
 Do Not Translate or Localize

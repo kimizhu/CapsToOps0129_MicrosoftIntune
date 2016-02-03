@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: robstack - V2 of Different ways to manage your devices
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e4fc05d3-4b57-4853-9908-85f90e520ac0
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # robstack - V2 of Different ways to manage your devices
 Microsoft provides several options for managing your mobile devices. Use the information in this topic to help you decide which works best for your business needs.

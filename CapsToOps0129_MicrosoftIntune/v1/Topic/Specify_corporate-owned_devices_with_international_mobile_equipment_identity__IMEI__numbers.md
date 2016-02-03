@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Specify corporate-owned devices with international mobile equipment identity (IMEI) numbers
-search: na
-ms.date: 2016-01-08
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1712bd39-562b-4409-9cec-155d5f4d8a39
-ms.author: nathan.barnett@microsoft.com
+author: NathBarn
 ---
 # Specify corporate-owned devices with international mobile equipment identity (IMEI) numbers
 Microsoft Intune enables administrators to import international mobile equipment identity (IMEI) numbers for mobile device platforms with an IMEI numbers to help identify corporate-owned mobile devices. Once enrolled in Intune, devices with imported IMEI numbers are tagged as Corporate which can be used for applying policies that are different than those applied to personally owned devices.

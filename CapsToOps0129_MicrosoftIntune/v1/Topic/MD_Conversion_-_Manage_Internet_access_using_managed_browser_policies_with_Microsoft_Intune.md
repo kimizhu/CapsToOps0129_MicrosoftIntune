@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Manage Internet access using managed browser policies with Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3837a995-65e5-49a1-9bec-98fe5bd5ffb4
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Manage Internet access using managed browser policies with Microsoft Intune
 The managed browser is a web browsing application that you can deploy in your organization using [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]. A managed browser policy configures an allow list or a block list that restricts the web sites that users of the managed browser can visit.

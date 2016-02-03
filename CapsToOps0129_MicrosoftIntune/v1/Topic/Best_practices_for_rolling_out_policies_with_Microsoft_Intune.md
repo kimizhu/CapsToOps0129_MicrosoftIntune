@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Best practices for rolling out policies with Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 09aa19f4-1751-40a0-9995-546672f52ba8
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Best practices for rolling out policies with Microsoft Intune
 Insert introduction here.

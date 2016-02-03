@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Using a Product Key to Set Up a Customer Account
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c7113c41-f32d-4bfc-b061-520461e18f8a
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Using a Product Key to Set Up a Customer Account
 

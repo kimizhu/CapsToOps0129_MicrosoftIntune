@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Company Portal Frequently Asked Questions
-search: na
-ms.date: 5/18/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 523caa6b-d792-4bb6-bddb-24b2479932d8
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 ---
 # Company Portal Frequently Asked Questions
 

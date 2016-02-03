@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Help for Managed Apps
-search: na
-ms.date: 4/30/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 48e0ce4a-d630-4349-bdbb-7b90e69ea5fd
-ms.author: brenduns@microsoft.com
+author: Brenduns
 robots: noindex,nofollow
 ---
 # Help for Managed Apps

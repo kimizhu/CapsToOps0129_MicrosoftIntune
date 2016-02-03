@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: System Overview
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 29d761b7-3650-4e6e-9030-8e6a7d313fd1
-ms.author: lindavr@microsoft.com
+author: Lindavr
 ---
 # System Overview
 Insert introduction here.

@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Microsoft apps you can use with Microsoft Intune mobile application management policies
-search: na
-ms.date: 2015-11-18
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 49023822-0aa7-4508-8119-3be8976d21d1
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Microsoft apps you can use with Microsoft Intune mobile application management policies
 Use this topic to find out which Microsoft apps you can use with [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] mobile application management (MAM) policies.

@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Network infrastructure requirements for Microsoft Intune
-search: na
-ms.date: 2016-01-27
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: get-started-article
 ms.assetid: 074de65b-84a5-4a01-a824-18ffd838eab0
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 ---
 # Network infrastructure requirements for Microsoft Intune
 The following [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] requirements enable your network infrastructure to pass communications between the devices you manage and use to manage your subscription, and the websites on the Internet that the cloud-based service uses. For [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] requirements about browsers, accounts, portals, and more, see [What to know before setting up Intune](https://technet.microsoft.com/library/dn646966.aspx).

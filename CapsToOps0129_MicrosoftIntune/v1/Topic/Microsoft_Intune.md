@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Microsoft Intune
-search: na
-ms.date: 12/12/2014 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f2f0af3c-1a95-4cb9-8a57-0bbd4ef3d1bf
-ms.author: brenduns@microsoft.com
+author: Brenduns
 ---
 # Microsoft Intune
 Welcome to the documentation library for **[!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**. The [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] cloud-based management service is a solution that helps you to manage your computers and mobile devices and to secure your company’s information.

@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Microsoft Intune Service Description
-search: na
-ms.date: 2016-01-22
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 40fa5a2e-6c0f-4150-9740-d5ddc0cdbda0
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Microsoft Intune Service Description
 Learn about the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] service and find additional technical documentation for Intune.

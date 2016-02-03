@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: What to know before setting up Microsoft Intune
-search: na
-ms.date: 2016-01-27
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: get-started-article
 ms.assetid: 5d1ac59c-a885-4276-8576-f3cf81c2d268
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 ---
 # What to know before setting up Microsoft Intune
 Before you set up [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)], you might want to review [Start using Microsoft Intune](../Topic/Start_using_Microsoft_Intune.md). After you are familiar with the capabilities of [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], you should be ready to set up your subscription. If you start with a trial subscription, at a later time you can convert it to a full subscription. To convert a trial subscription, see [How to buy Intune](http://technet.microsoft.com/library/dn646949.aspx).
@@ -55,11 +54,12 @@ Intune has the following general capabilities:
 ## <a name="BKMK_SupportedBrowsers"></a>Web browser requirements
 The following web browsers are supported.
 
-|Platform|Minimum browser version|
-|------------|---------------------------|
-|Mobile device platforms|The Microsoft Intune Company Portal website is supported by the default web browser for each supported platform.|
-|Windows computers|The following web browsers are supported for use with the [!INCLUDE[wit_icp_1](../Token/wit_icp_1_md.md)], [!INCLUDE[wit_adminconsole](../Token/wit_adminconsole_md.md)], and the Company Portal  website:<br /><br />**Internet Explorer 9 or later**<br /><br />**Google Chrome** (versions prior to version 42)<br /><br />**Mozilla Firefox**<br /><br />**Microsoft Edge** - supported only for the Company Portal website. Edge does not support running the Microsoft Intune Account Portal or the Microsoft Intune administrator console. <br /><br />Starting in February, 2016, Internet Explorer 9 will no longer be supported as an official browser for accessing the Microsoft Intune Company Portal website, Intune account portal, and Intune administration console. You will need to migrate to Internet Explorer 10 or later.|
-|Mac OS X|The Microsoft Intune Company Portal website is supported by Safari browser on Mac OS X 10.9 or later.|
+|Intune feature |Supported browsers|  
+|---------|---------|
+|Intune Admin console     |  Internet Explorer 10 or later<br /><br />Google Chrome (versions prior to version 42)<br /><br />Mozilla Firefox <br /><br />**Note:** Edge is currently not supported for the Admin console.   |                           
+|Intune Account portal     | Internet Explorer 10 or later<br /><br />Google Chrome <br /><br />Mozilla Firefox<br /><br />**Note:** If you are using the Office 365 Admin Portal, which is replacing the Intune Account portal, see "Office 365 Admin Portal" below for the list of browsers.    
+|Office 365 Admin Portal     |Internet Explorer 10 or later<br /><br />Google Chrome<br /><br />Mozilla Firefox <br /><br />Microsoft Edge  |
+|Company Portal website     |**On mobile devices:** use the default web browser for each supported platform   <br /><br />**On Windows PCs:** Internet Explorer 10 or later, or Microsoft Edge<br /><br />**On Mac OS X 10.9 or later:** Apple Safari    |
 
 ## <a name="BKMK_AdministrativeTasks"></a>How Intune divides administrative tasks
 You use two types of administrator accounts, user accounts with additional permissions, and two separate administration consoles to grant your admins access to the things they should manage. The following sections explain these accounts and portals.
@@ -117,7 +117,7 @@ The decision to integrate [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] wi
 
 When you use [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] with [!INCLUDE[cmshort](../Token/cmshort_md.md)], you do not use the [!INCLUDE[wit_adminconsole](../Token/wit_adminconsole_md.md)] to manage [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] and instead use the [!INCLUDE[cmshort](../Token/cmshort_md.md)] console. [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] still uses its cloud storage in Azure to host software that you deploy to devices that you manage with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].
 
-For more information, see [Manage Mobile Devices with Configuration Manager and Microsoft Intune](http://msdn.microsoft.com/en-us/library/2c6bd0e5-d436-41c8-bf38-30152d76be10) in the [!INCLUDE[cm5short](../Token/cm5short_md.md)] SP1 documentation.
+For more information, see [Manage Mobile Devices with Configuration Manager and Microsoft Intune](http://msdn.microsoft.com/library/2c6bd0e5-d436-41c8-bf38-30152d76be10) in the [!INCLUDE[cm5short](../Token/cm5short_md.md)] SP1 documentation.
 
 ## <a name="BKMK_NetworkBandwidth"></a>Network bandwidth use
 Use the information in the following sections to plan for network traffic for [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] clients.

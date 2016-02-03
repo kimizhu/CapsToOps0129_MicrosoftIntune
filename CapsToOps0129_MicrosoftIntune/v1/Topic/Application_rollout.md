@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Application rollout
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0fc32ed3-bcf4-472a-80e7-eb20986f78fa
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Application rollout
 Insert introduction here.

@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Microsoft Intune Managed Browser for iOS
-search: na
-ms.date: 2016-01-04
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 122a12c2-ef30-43ac-a21c-af34a3ba64d9
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 ---
 # Microsoft Intune Managed Browser for iOS
 

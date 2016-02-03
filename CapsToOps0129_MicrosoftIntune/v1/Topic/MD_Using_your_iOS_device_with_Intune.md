@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Using your iOS device with Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8f91d1b1-4676-47df-81d8-e352a86308a3
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Using your iOS device with Intune
 Use these steps for tasks that you need to do on your iOS device when your company is using Microsoft Intune:

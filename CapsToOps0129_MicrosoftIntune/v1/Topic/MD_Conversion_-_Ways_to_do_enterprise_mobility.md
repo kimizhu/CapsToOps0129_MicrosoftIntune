@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Ways to do enterprise mobility
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7d5f4091-8769-4055-a006-481e1c2970d0
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Ways to do enterprise mobility
 Microsoft provides several options for managing your mobile devices. We’ve provided information on this page to help you decide between these different options for meeting your enterprise mobility needs:

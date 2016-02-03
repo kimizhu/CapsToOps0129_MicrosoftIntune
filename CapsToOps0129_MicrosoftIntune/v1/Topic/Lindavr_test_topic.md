@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Lindavr test topic
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6d388b97-7a2e-4ad9-92b1-2c0c7d51217a
-ms.author: lindavr@microsoft.com
+author: Lindavr
 ---
 # Lindavr test topic
 ![](../Image/WIT_Nav_OverviewGray.png)![](../Image/WIT_Nav_GetStartedGray.png)![](../Image/WIT_Nav_EnrollDevicesGray.png)![](../Image/WIT_Nav_ConfigureDevicesGray.png)![](../Image/WIT_Nav_DeployAppsGray.png)![](../Image/WIT_Nav_ProtectResourcesGray.png)![](../Image/WIT_Nav_RetireDataDevices.png)![](../Image/WIT_Nav_TroubleshootingGray.png)![](../Image/WIT_Nav_RealworldSolutionsGray.png)![](../Image/WIT_Nav_TechnicalReferenceGray.png)

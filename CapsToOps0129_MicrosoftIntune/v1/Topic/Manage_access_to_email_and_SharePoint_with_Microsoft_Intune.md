@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Manage access to email and SharePoint with Microsoft Intune
-search: na
-ms.date: 2016-01-22
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c564d292-b83b-440d-bf08-3f5b299b7a5e
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Manage access to email and SharePoint with Microsoft Intune
 Use **conditional access** in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] to help secure email and other services depending on conditions you specify.

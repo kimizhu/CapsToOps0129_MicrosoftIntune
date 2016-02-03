@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Understand your devices with inventory in Microsoft Intune - deleted
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: adb8c9cb-3d7b-4f6c-b77f-592b488c37b2
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Understand your devices with inventory in Microsoft Intune - deleted
 Insert introduction here.

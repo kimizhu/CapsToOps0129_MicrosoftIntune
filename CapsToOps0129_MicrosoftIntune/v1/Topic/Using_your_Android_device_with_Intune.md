@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: Using your Android device with Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 77e71022-4ff4-4e02-a28d-11ad70a264fd
-ms.author: v-dasiss@microsoft.com
 ---
 # Using your Android device with Intune
 Use these steps  for tasks that you need to do on your Windows device or computer when your company is using Microsoft Intune:

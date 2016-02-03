@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Reference for the Microsoft Intune administrative consoles
-search: na
-ms.date: 6/22/2015 12:00:00 PM
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 345b5264-ab29-4c46-b122-e986fa320c9b
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 robots: noindex,nofollow
 ---
 # Reference for the Microsoft Intune administrative consoles

@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Documentation for Microsoft Intune &lt;1&gt;
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d5f570fc-d55b-437a-82eb-e03e4e4d5f9a
-ms.author: dougeby@microsoft.com
+author: Dougeby
 robots: noindex,nofollow
 ---
 # Documentation for Microsoft Intune &lt;1&gt;

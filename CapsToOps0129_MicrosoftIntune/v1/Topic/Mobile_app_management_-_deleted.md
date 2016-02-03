@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Mobile app management - deleted
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fe572991-0d63-45c2-87f7-59d5d828fa57
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Mobile app management - deleted
 Insert introduction here.

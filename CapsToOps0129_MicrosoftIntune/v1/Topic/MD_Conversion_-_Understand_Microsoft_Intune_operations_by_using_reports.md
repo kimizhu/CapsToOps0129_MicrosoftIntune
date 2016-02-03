@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Understand Microsoft Intune operations by using reports
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7327116f-97b8-46e8-82a2-af627615c15f
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Understand Microsoft Intune operations by using reports
 Use the information in this topic to help you create and manage [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] reports that provide information about software, hardware, and software licenses in your organization.

@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Microsoft Intune App SDK for Android Developer Guide
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0100e1b5-5edd-4541-95f1-aec301fb96af
-ms.author: matthew.baldwin@microsoft.com
+author: Msmbaldwin
 ---
 # Microsoft Intune App SDK for Android Developer Guide
 ***Note**:  You may wish to first read the [Get Started with Intune App SDK Guide](Getting_Started_and_FAQ.md), which explains how to prepare for integration on each supported platform.* 

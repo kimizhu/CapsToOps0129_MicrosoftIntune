@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: What&#39;s coming in Microsoft Intune_deleted
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2072b044-a6f7-4ecb-b260-88d6122d513f
-ms.author: lindavr@microsoft.com
+author: Lindavr
 ---
 # What&#39;s coming in Microsoft Intune_deleted
 <?xml version='1.0' encoding='UTF-8'?>

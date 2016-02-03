@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Rolling out Microsoft Intune policies
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c505adcc-463f-463f-ad66-190b3cd0a881
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Rolling out Microsoft Intune policies
 This topic provide specific recommendations for a phased rollout of policies in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]. This approach applies to the first policies you apply in a new [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] deployment, or policies you add to an existing deployment.

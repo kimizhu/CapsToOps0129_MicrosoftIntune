@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Unenroll your device
-search: na
-ms.date: 11/21/2014 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0d98b7e1-baac-47e6-b122-d5a453c4db24
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 robots: noindex,nofollow
 ---
 # Unenroll your device

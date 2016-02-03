@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Using your Windows device with Intune
-search: na
-ms.date: 2016-01-26
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0de5f03a-c288-423b-b9ea-493a39eb715a
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 ---
 # Using your Windows device with Intune
 Use these steps  for tasks that you need to do on your Windows device or computer when your company is using Microsoft Intune:
@@ -263,7 +262,7 @@ When you install the Company Portal app and then use the app to enroll your Wind
 
 -   Reset your phone to factory settings if it is lost or stolen
 
-For the steps to enroll, see[Windows Phone 8.1](#BKMK_enrollment_81) or [Windows Phone 8](#BKMK_enrollment_wp8).  For information about what your IT admin can and can't see on your device, see [What can my IT admin see when I enroll my device in Intune?](#BKMK_win_what_IT_can_see).
+For the steps to enroll, see [Windows Phone 8.1](#BKMK_enrollment_81) or [Windows Phone 8](#BKMK_enrollment_wp8).  For information about what your IT admin can and can't see on your device, see [What can my IT admin see when I enroll my device in Intune?](#BKMK_win_what_IT_can_see).
 
 When you add your Windows Phone device, you are giving your IT administrator permission to access the device. They can do things like:
 
@@ -393,7 +392,7 @@ You can encrypt your device either by adding a Microsoft account or by enabling 
 If your device is enrolled in Intune, and your device is lost or stolen, you can reset it to factory defaults.
 
 > [!WARNING]
-> Resetting a device to factor defaults removes both your personal and work information from it. For more about what happens when you reset your device, see [What happens if I reset my Windows device using the Company Portal?](#BKMK).
+> Resetting a device to factor defaults removes both your personal and work information from it. For more about what happens when you reset your device, see [What happens if I reset my Windows device using the Company Portal?](#BKMK_win_what_happs_reset_devc).
 
 1.  In your browser, open your Company Portal, and sign in to your work account.
 

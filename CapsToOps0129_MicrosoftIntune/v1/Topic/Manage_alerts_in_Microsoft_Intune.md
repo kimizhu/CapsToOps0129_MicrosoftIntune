@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Manage alerts in Microsoft Intune
-search: na
-ms.date: 2015-08-01
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 74dc4ce4-21da-4f40-a07f-3eea34561eee
-ms.author: nbigman@microsoft.com
+author: Nbigman
 robots: noindex,nofollow
 ---
 # Manage alerts in Microsoft Intune

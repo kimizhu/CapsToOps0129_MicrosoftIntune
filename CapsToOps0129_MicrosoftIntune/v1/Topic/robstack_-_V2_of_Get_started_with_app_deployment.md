@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: robstack - V2 of Get started with app deployment
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c16a4fea-d3b9-4f97-b587-6123863dddf0
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # robstack - V2 of Get started with app deployment
 Before you start deploying [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] apps, take some time to familiarize yourself with the concepts introduced in this topic. This will give you an overview of the deployment process, and act as a reference to which device types and app types are supported.

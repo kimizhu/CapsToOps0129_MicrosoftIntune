@@ -1,14 +1,12 @@
 ---
-description: na
-keywords: na
 title: Terms of Delegated Administration for Microsoft Intune
-search: na
-ms.date: 4/30/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d1646677-641b-4b4a-96d6-4529cdd64a27
-ms.author: obsolete_aaronca@microsoft.com
 ---
 # Terms of Delegated Administration for Microsoft Intune
 > [!WARNING]

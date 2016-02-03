@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: What&#39;s new in Microsoft Intune
-search: na
-ms.date: 2016-01-26
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: get-started-article
 ms.assetid: fab51ee0-638d-4dd4-8d8f-1f263bc11e5c
-ms.author: lindavr@microsoft.com
+author: Lindavr
 ---
 # What&#39;s new in Microsoft Intune
 

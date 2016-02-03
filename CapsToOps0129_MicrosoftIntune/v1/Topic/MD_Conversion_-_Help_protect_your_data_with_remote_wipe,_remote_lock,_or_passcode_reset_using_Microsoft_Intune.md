@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Help protect your data with remote wipe, remote lock, or passcode reset using Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fbccc270-1eb9-4c3c-b787-b66de8763676
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Help protect your data with remote wipe, remote lock, or passcode reset using Microsoft Intune
 [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] provides selective wipe, full wipe, remote lock, and passcode reset capabilities. Because mobile devices can store sensitive corporate data and provide access to many corporate resources, you can issue a remote device wipe command from the [!INCLUDE[wit_adminconsole](../Token/wit_adminconsole_md.md)] to wipe a lost or stolen device. Also, users can issue a remote device wipe command from the [!INCLUDE[wit_iwportal_1](../Token/wit_iwportal_1_md.md)] on privately owned devices enrolled in Intune.

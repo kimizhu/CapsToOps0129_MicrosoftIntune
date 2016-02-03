@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Mac OS X configuration policy settings in Microsoft Intune
-search: na
-ms.date: 2016-01-06
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 98b2f19b-bee8-42d7-a215-a716d56a25a3
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Mac OS X configuration policy settings in Microsoft Intune
 Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] **Mac OS X general configuration policy** to configure settings for:

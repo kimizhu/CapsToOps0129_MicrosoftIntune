@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Rollout phases for Microsoft Intune deployment
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9fe7eec1-2a6f-404e-8614-977527a7a15b
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Rollout phases for Microsoft Intune deployment
 This topic describes the phases that are generally associated with a service deployment.

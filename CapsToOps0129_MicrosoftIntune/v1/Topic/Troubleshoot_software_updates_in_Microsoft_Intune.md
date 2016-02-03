@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Troubleshoot software updates in Microsoft Intune
-search: na
-ms.date: 2016-01-14
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d17b70f4-17b4-4d89-88fd-70fa4f34fbea
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Troubleshoot software updates in Microsoft Intune
 

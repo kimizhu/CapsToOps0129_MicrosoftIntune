@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Enroll corporate-owned iOS devices in Microsoft Intune
-search: na
-ms.date: 2015-07-20
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2d3ca4ab-f20c-4d56-9413-f8ef19cf0722
-ms.author: nathan.barnett@microsoft.com
+author: NathBarn
 robots: noindex,nofollow
 ---
 # Enroll corporate-owned iOS devices in Microsoft Intune

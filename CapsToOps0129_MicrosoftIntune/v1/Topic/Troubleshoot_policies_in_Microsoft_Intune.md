@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Troubleshoot policies in Microsoft Intune
-search: na
-ms.date: 2016-01-14
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 99fb6db6-21c5-46cd-980d-50f063ab8ab8
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Troubleshoot policies in Microsoft Intune
 

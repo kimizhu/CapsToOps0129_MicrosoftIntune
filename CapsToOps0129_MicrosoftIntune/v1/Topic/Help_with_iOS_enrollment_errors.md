@@ -1,14 +1,12 @@
 ---
-description: na
-keywords: na
 title: Help with iOS enrollment errors
-search: na
-ms.date: 4/30/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c91075e8-e184-49a9-bedf-4a213872613f
-ms.author: obsolete_aaronca@microsoft.com
 robots: noindex,nofollow
 ---
 # Help with iOS enrollment errors

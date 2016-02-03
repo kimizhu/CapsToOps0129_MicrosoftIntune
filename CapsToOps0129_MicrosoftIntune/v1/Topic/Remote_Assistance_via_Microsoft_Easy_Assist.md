@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Remote Assistance via Microsoft Easy Assist
-search: na
-ms.date: 4/30/2015 8:00:00 AM
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9faab775-c68e-4e26-9830-2998b62af403
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Remote Assistance via Microsoft Easy Assist
 

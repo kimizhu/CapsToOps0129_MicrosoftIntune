@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: What Happens if You Add a Personal Device to the Company Portal
-search: na
-ms.date: 2016-01-25
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5703d18a-8b5b-4f47-a393-c2cc6cf7a614
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 ---
 # What Happens if You Add a Personal Device to the Company Portal
 Use the link that matches the type of device you're using:

@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Manage device compliance policies for Microsoft Intune
-search: na
-ms.date: 2016-01-08
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0775107a-6662-41c8-9404-be14bbb599f3
-ms.author: rob.stack@microsoft.com
+author: karthikaraman
 ---
 # Manage device compliance policies for Microsoft Intune
 **Compliance policies** define the rules and settings that a device must comply with in order to be considered compliant by conditional access polices. You can also use compliance policies to monitor and remediate compliant issues with devices independently of conditional access.

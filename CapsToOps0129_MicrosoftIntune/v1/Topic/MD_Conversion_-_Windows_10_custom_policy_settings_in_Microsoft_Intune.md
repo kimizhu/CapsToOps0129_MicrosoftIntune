@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Windows 10 custom policy settings in Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 43e161c5-fc55-4e71-aef1-6b5715031b8c
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Windows 10 custom policy settings in Microsoft Intune
 Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**custom configuration policy** for Windows 10 and Windows 10 Mobile to deploy OMA-URI (Open Mobile Alliance Uniform Resource Identifier) settings that can be used to control features on Windows 10 and Windows 10 Mobile devices. These are standard settings that many mobile device manufacturers use to control device features.

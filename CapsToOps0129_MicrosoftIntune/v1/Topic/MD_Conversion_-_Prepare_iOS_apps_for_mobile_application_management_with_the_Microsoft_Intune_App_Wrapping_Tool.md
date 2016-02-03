@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Prepare iOS apps for mobile application management with the Microsoft Intune App Wrapping Tool
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7c228330-dc83-4da2-87c0-1991a267a90b
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Prepare iOS apps for mobile application management with the Microsoft Intune App Wrapping Tool
 Use the **Microsoft Intune App Wrapping Tool for iOS** to modify the behavior of in-house iOS apps by restricting features of the app without changing the code of the app itself.

@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Microsoft apps you can use with mobile app management policies
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b73bebcb-2af2-46f7-bb41-110eab9c33e4
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Microsoft apps you can use with mobile app management policies
 Insert introduction here.

@@ -1,20 +1,19 @@
 ---
-description: na
-keywords: na
 title: Help protect your data with remote wipe, remote lock, or passcode reset using Microsoft Intune
-search: na
-ms.date: 2016-01-26
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8519e411-3d48-44eb-9b41-3e4fd6a93112
-ms.author: lindavr@microsoft.com
+author: NathBarn
 ---
 # Help protect your data with remote wipe, remote lock, or passcode reset using Microsoft Intune
 [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] provides selective wipe, full wipe, remote lock, and passcode reset capabilities. Because mobile devices can store sensitive corporate data and provide access to many corporate resources, you can issue a remote device wipe command from the [!INCLUDE[wit_adminconsole](../Token/wit_adminconsole_md.md)] to wipe a lost or stolen device. Also, users can issue a remote device wipe command from the [!INCLUDE[wit_iwportal_1](../Token/wit_iwportal_1_md.md)] on privately owned devices enrolled in Intune.
 
 > [!NOTE]
-> This topic is only about wiping devices managed by Intune. You can also use [the Azure preview portal](https://portal.azure.com) to [wipe company data from apps](https://technet.microsoft.com/en-us/library/mt627826.aspx).
+> This topic is only about wiping devices managed by Intune. You can also use [the Azure preview portal](https://portal.azure.com) to [wipe company data from apps](https://technet.microsoft.com/library/mt627826.aspx).
 
 ## <a name="bkmk_wipe"></a>Use Retire/Wipe to help secure a lost device or to retire a device from active use
 **Full wipe** restores a device to its factory default settings, removing all company and user data and settings.     The device is removed from Intune. **Be careful about selecting full wipe; your data cannot be recovered**.
@@ -32,6 +31,8 @@ ms.author: lindavr@microsoft.com
 |Management Agent|Management profile is removed.|
 |Email|Email profiles that are provisioned through [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] are removed and cached email on the device is deleted.|
 |Azure Active Directory (AAD) Unjoin|AAD Record removed|
+|Contacts | Contacts synced directly from the app to the native address book are removed.  Any contacts synced from the native address book to another external source cannot be wiped. <br /> <br />Currently, only Outlook app is supported.
+
 **Android**
 
 |Data type|Android|Android Samsung KNOX|
@@ -47,7 +48,8 @@ ms.author: lindavr@microsoft.com
 |Management Agent|Device Administrator privilege is revoked.|Device Administrator privilege is revoked.|
 |Email|Email  received by the Microsoft Outlook app for Android  app is removed.|Email profiles that are provisioned through [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] are removed and cached email on the device is deleted.|
 |Azure Active Directory (AAD) Unjoin|AAD Record removed|AAD Record removed|
-
+|Contacts | Contacts synced directly from the app to the native address book are removed.  Any contacts synced from the native address book to another external source cannot be wiped. <br /> <br />Currently, only Outlook app is supported.|Contacts synced directly from the app to the native address book are removed.  Any contacts synced from the native address book to another external source cannot be wiped. <br /> <br />Currently, only Outlook app is supported.
+    
 **Windows**
 
 |Data type|Windows 8.1 (enrolled as a mobile device) and Windows RT 8.1|Windows RT|Windows Phone 8 and Windows Phone 8.1|Windows 10|

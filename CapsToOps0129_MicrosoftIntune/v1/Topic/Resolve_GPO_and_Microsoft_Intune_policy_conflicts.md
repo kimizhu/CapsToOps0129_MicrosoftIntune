@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Resolve GPO and Microsoft Intune policy conflicts
-search: na
-ms.date: 2016-01-22
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e76af5b7-e933-442c-a9d3-3b42c5f5868b
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Resolve GPO and Microsoft Intune policy conflicts
 [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] uses policies that help you manage settings on the computers you manage. For example, you could use a policy to control settings for the Windows Firewall on computers. Many of the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] settings are similar to settings you might configure with Windows Group Policy. However, it is possible that, at times, the two methods might conflict with one another.

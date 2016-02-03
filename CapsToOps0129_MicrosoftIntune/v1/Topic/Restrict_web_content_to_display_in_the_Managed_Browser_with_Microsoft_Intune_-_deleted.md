@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Restrict web content to display in the Managed Browser with Microsoft Intune - deleted
-search: na
-ms.date: na
-ms.prod: ms.service: microsoft-intune
+ms.custom: na
+ms.reviewer: na
+ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 35aa5d98-72ff-40d9-8954-f38d42f34e5b
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Restrict web content to display in the Managed Browser with Microsoft Intune - deleted
 The managed browser is a web browsing application.  For devices that are not enrolled in Intune, you can restrict web content from policy-managed apps to only display in the Managed Browser app using the mobile app management policy.

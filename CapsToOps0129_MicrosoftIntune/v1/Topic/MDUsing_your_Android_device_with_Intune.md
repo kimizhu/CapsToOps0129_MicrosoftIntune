@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MDUsing your Android device with Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8c068c86-141c-4f4c-890d-c317292a3f1d
-ms.author: v-dasiss@microsoft.com
 ---
 # MDUsing your Android device with Intune
 Use these  steps for tasks that you need to do on your Android device when your company is using Microsoft Intune:

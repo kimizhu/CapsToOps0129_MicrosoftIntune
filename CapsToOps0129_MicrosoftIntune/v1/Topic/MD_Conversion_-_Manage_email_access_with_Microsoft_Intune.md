@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Manage email access with Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 26cdfaa7-f317-413d-a25a-c3ab9f4b2d8f
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Manage email access with Microsoft Intune
 Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**conditional access policies** for Exchange to manage access to Exchange email based on conditions you specify.

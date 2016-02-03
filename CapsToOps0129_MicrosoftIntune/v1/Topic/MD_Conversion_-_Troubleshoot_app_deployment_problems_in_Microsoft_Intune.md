@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Troubleshoot app deployment problems in Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8d830b04-e1f6-46ab-aa85-88db7917510f
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Troubleshoot app deployment problems in Microsoft Intune
 This topic provides resources to help you solve app deployment problems with[!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)].

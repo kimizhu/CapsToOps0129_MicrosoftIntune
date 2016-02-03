@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Lifecycle section from Overview
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ae4b6d14-2c7c-4544-abe4-aca324cdecd0
-ms.author: nathan.barnett@microsoft.com
+author: NathBarn
 ---
 # Lifecycle section from Overview
 Insert introduction here.

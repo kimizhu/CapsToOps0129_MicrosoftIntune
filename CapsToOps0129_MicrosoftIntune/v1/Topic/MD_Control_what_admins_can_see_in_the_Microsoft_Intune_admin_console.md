@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Control what admins can see in the Microsoft Intune admin console
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b2952c13-d6f7-43fa-bc6a-a3dd780416d8
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Control what admins can see in the Microsoft Intune admin console
 [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] provides the ability to filter the admin console view to allow users to access only the items you want them to see. For example, you might want to allow only admin console operators to be able to update malware definitions, or reset the passcode on devices. This is accomplished by using preset **designations** that you assign to specific users. When these users access the admin console, they only see items specific to their designation.

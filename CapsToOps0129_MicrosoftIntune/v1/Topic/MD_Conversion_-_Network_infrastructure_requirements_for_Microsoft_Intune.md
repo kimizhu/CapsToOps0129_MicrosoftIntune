@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Network infrastructure requirements for Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9138e581-713a-4167-b699-129ecf4e8374
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Network infrastructure requirements for Microsoft Intune
 [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] requires your network infrastructure to pass communications between the devices you manage and use to manage your subscription, and the websites on the Internet that the cloud-based service uses.

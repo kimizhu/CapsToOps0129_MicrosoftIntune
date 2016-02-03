@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Android configuration policy settings in Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 33a7dae7-5fee-431c-bfcf-698abf356075
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Android configuration policy settings in Microsoft Intune
 Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**Android general configuration policy** to configure settings for:

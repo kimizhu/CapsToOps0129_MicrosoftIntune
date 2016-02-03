@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Windows configuration policy settings in Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4b92074a-fe83-4cc9-a449-78b6834e2af7
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Windows configuration policy settings in Microsoft Intune
 Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**Windows general configuration policy** to configure settings for enrolled Windows 8, and Windows 8.1 devices:

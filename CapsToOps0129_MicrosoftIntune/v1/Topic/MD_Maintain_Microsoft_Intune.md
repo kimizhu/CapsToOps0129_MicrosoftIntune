@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Maintain Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 61d342c8-172a-4db8-8cf6-1e886845e516
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Maintain Microsoft Intune
 As a cloud service hosted by Microsoft, the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] service is maintained automatically with little maintenance required by you. However, you should be familiar with the following maintenance tasks that might be required to maintain your service:

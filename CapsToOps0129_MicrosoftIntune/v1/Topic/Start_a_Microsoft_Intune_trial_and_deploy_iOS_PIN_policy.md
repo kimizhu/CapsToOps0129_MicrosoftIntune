@@ -1,13 +1,13 @@
 ---
-description: na
-keywords: na
 title: Start a Microsoft Intune trial and deploy iOS PIN policy
-search: na
-ms.date: 2016-01-21
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 06cb9a73-0f17-44b3-b334-86c98020316e
+author: Staciebarker
 ---
 # Start a Microsoft Intune trial and deploy iOS PIN policy
 These step-by-step instructions help you set up an Intune trial and configure a PIN policy for iOS devices. For a list of other common Intune evaluation tasks  that you can try, see [Common Microsoft Intune evaluation tasks](Common_Microsoft_Intune_evaluation_tasks.md).

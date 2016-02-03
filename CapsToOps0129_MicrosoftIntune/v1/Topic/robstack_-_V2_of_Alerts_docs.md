@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: robstack - V2 of Alerts docs
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2da6acc2-e2d6-4bfa-bd7f-06a552f3cdca
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # robstack - V2 of Alerts docs
 Alerts keep you in touch with what's happening in [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)].

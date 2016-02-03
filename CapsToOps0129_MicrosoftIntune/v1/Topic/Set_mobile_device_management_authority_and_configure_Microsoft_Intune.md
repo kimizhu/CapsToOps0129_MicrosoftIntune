@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Set mobile device management authority and configure Microsoft Intune
-search: na
-ms.date: 2015-12-14
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 668d6460-9d34-47a7-8a85-bbe1ed89f8e1
-ms.author: nathan.barnett@microsoft.com
+author: NathBarn
 ---
 # Set mobile device management authority and configure Microsoft Intune
 Before users  can enroll mobile devices with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], the IT administrator must declare [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] as the *mobile device management authority*, add uses, and set up the Company Portal for users.

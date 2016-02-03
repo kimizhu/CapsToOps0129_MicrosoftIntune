@@ -1,12 +1,11 @@
 ---
-description: na
-keywords: na
 title: krtesttopic
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.assetid: 8857989f-df7f-4d58-b1c1-6f341a4e970d
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # krtesttopic
 Insert introduction here.

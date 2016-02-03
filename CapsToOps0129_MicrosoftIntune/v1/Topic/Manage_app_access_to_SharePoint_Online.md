@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Manage app access to SharePoint Online
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 683850f9-7010-423e-aae4-d9a60feaec7e
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Manage app access to SharePoint Online
 You can choose which apps should be allowed to access SharePoint Online and the users who are affected by the policy.  This topic gives you step by step instructions on how to set up app access to SharePoint Online service..

@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - iOS custom policy settings in Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0be60ac5-112c-449e-a57e-bc01238c718c
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - iOS custom policy settings in Microsoft Intune
 Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**iOS custom configuration policy** to deploy settings that you created using the [Apple Configurator tool](https://itunes.apple.com/us/app/apple-configurator/id434433123?mt=12) to iOS devices. This tool lets you create many settings that control the operation of these devices and export them to a configuration profile. You can then import this configuration profile into a [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] iOS custom policy and deploy the settings to users and devices in your organization.

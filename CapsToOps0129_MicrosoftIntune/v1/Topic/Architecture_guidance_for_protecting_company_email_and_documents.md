@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Architecture guidance for protecting company email and documents
-search: na
-ms.date: 2015-09-30
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fc9c7d79-d2ca-4cb2-8456-c7a88cbbf6fd
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Architecture guidance for protecting company email and documents
 This topic starts with an overview of how you can provide data protection for your company while ensuring that the end-user experience is simple and does not impact productivity. Then, we will focus specifically on how you can help provide secure access to your corporate email and help protect company data in email and attachments using the Microsoft Enterprise Mobility Suite solution.

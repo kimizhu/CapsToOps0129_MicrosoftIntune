@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Microsoft Intune Company Portal for Windows Phone Application License Terms
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b9df1728-21fa-44c2-b62e-e8d087e95900
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 ---
 # Microsoft Intune Company Portal for Windows Phone Application License Terms
 

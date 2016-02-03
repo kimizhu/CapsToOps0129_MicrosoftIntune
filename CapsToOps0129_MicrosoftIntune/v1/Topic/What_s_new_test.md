@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: What&#39;s new test
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ff2fd922-23c1-4ea3-8dd7-30c1d8335c5b
-ms.author: lindavr@microsoft.com
+author: Lindavr
 ---
 # What&#39;s new test
 

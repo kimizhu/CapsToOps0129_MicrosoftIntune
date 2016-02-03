@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Keep Windows PCs up to date with software updates in Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: bf9cd754-4381-4fef-afc1-bdc7b9935b4d
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Keep Windows PCs up to date with software updates in Microsoft Intune
 [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] can help you to secure your managed computers in a number of ways, including the management of software updates that keep your computers up to date by ensuring the latest patches and software updates are quickly installed.

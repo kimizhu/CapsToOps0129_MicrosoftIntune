@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Real-world solutions to help you manage mobile devices
-search: na
-ms.date: 2015-08-01
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 2aea9452-dca8-465f-9092-a257b4233c74
-ms.author: lindavr@microsoft.com
+author: Lindavr
 robots: noindex,nofollow
 ---
 # Real-world solutions to help you manage mobile devices

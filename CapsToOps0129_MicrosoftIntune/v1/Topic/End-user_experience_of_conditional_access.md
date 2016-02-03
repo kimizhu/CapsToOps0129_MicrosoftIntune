@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: End-user experience of conditional access
-search: na
-ms.date: 2015-11-20
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3e186dd2-e17c-40d8-b160-48038b2c6593
-ms.author: v-craic@microsoft.com
+author: karthikaraman
 ---
 # End-user experience of conditional access
 This topic describes the end-user experience after conditional access is enabled and an end user tries to access email on their mobile device.

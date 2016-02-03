@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Manage settings and features on your devices with Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 58f3275d-3362-4d32-b764-da5d4a445b1c
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Manage settings and features on your devices with Microsoft Intune
 [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] uses **policies** that help you to configure many security and functional settings for enrolled mobile devices, including:

@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Manage access to apps using Microsoft Intune configuration policies - deleted
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a5290042-0cef-47dd-bd30-066c14621fa7
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Manage access to apps using Microsoft Intune configuration policies - deleted
 Insert introduction here.

@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Get started with a paid subscription to Microsoft Intune
-search: na
-ms.date: 2016-01-08
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: get-started-article
 ms.assetid: d158503c-1276-422b-ab81-5f66c1cd7e7a
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 ---
 # Get started with a paid subscription to Microsoft Intune
 Whether you start with a 30-day free trial,  or start with a paid subscription, Microsoft Intune provides a quick and easy way for you to manage mobile devices and computers in your organization. This topic  leads you through the steps of setting up a cloud-only instance of [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)].

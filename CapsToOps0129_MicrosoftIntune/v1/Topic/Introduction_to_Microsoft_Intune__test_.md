@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Introduction to Microsoft Intune &lt;test&gt;
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5e2d548b-3858-453b-a31b-3e570d7b6fc8
-ms.author: dougeby@microsoft.com
+author: Dougeby
 robots: noindex,nofollow
 ---
 # Introduction to Microsoft Intune &lt;test&gt;

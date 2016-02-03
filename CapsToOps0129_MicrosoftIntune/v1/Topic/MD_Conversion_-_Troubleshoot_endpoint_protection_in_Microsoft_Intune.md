@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Troubleshoot endpoint protection in Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fc0d84e2-a51e-436b-8d69-f268035996ba
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Troubleshoot endpoint protection in Microsoft Intune
 

@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: iOS configuration policy settings in Microsoft Intune
-search: na
-ms.date: 2016-01-21
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ab46be6c-ab73-4c99-8492-66d1dd418293
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # iOS configuration policy settings in Microsoft Intune
 Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] **iOS general configuration policy** to configure settings for:

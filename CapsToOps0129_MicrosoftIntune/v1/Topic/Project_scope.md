@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Project scope
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 71488dad-2f78-478c-a505-5cb9410eec07
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Project scope
 In the project scope phase, you will outline your goals, timeline and success metrics, define key organizational readiness factors, assemble your project team, and begin initial preparations for all phases involved with successfully rolling out [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] across your organization and ensuring a great experience for end users.

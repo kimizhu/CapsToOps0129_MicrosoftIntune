@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: How to get support for Microsoft Intune
-search: na
-ms.date: 2016-01-14
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4682b6b6-c9ef-483e-a6de-b8830cb98b63
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # How to get support for Microsoft Intune
 With every [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] subscription, Microsoft Support provides global technical, pre-sales, billing, and subscription support. Support is available both online and by telephone for paid and trial subscriptions. Online technical support is available in English and Japanese. Non-technical support is available in additional languages.

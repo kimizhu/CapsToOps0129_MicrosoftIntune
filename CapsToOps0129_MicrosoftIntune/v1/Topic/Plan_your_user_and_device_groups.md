@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Plan your user and device groups
-search: na
-ms.date: 2016-01-22
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f11bb256-1094-4f7e-b826-1314c57f3356
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Plan your user and device groups
 Considered planning of your groups and policies will help you keep them organized and achieve the client behavior that you want. Here are some the recommended practices for organizing and managing your Intune policies and groups.

@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Manage access to Skype for Business
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1b2d7125-f63f-43cf-ac1e-94fbedf2a7e8
-ms.author: karaman@microsoft.com
+author: karthikaraman
 ---
 # Manage access to Skype for Business
 Use conditional access policy for  **Skype for Business Online** to manage access to Skype for Business Online, based on conditions you specify.

@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Windows Phone custom policy settings in Microsoft Intune
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6bc5c2af-4666-49a3-b489-9833e732764b
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Windows Phone custom policy settings in Microsoft Intune
 Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**Windows Phone custom configuration policy** to deploy OMA-URI (Open Mobile Alliance Uniform Resource Identifier) settings that can be used to control features on **Windows Phone 8.1 devices**. These are standard settings that many mobile device manufacturers use to control device features.

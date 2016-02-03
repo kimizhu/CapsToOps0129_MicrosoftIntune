@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Custom URI settings for Windows 10
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 03735cf3-dda2-4c7b-ae4c-8f30403576d2
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Custom URI settings for Windows 10
 This topic lists the settings that you can configure for Windows 10 and Windows 10 Mobile devices in a [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**Windows 10 Custom Policy**.

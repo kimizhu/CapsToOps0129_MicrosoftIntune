@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Install the Windows PC client with Microsoft Intune
-search: na
-ms.date: 2016-01-22
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 64c11e53-8d64-41b9-9550-4b4e395e8c52
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Install the Windows PC client with Microsoft Intune
 Use this guide to help you get your computers managed by [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)].

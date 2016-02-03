@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Deleted topic
-search: na
-ms.date: 2015-10-16
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a3e74325-f8bd-4b09-994d-21f6e5a9c676
-ms.author: nbigman@microsoft.com
+author: Nbigman
 robots: noindex,nofollow
 ---
 # Deleted topic

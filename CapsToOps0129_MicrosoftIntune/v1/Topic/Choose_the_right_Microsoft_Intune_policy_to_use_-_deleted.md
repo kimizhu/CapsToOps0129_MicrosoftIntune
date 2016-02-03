@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Choose the right Microsoft Intune policy to use - deleted
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 65ec39cb-d4c2-44f0-9467-49daee85ba2b
-ms.author: rob.stack@microsoft.com
+author: robstackmsft
 ---
 # Choose the right Microsoft Intune policy to use - deleted
 [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**policies** are groups of settings that control features on mobile devices and computers. You create policies using templates that contain recommended or customized settings, and then deploy them to device or user groups.

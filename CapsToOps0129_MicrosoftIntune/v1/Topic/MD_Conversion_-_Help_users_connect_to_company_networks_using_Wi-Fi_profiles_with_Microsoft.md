@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: MD Conversion - Help users connect to company networks using Wi-Fi profiles with Microsoft
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c70c5549-07ef-4d79-8270-dc7c7b8979a6
-ms.author: v-dasiss@microsoft.com
 ---
 # MD Conversion - Help users connect to company networks using Wi-Fi profiles with Microsoft
 Use [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] Wi-Fi profiles to deploy wireless network settings to users and devices in your organization. These settings simplify connecting to wireless networks for end-users.

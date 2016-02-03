@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Enterprise rollout
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d894708e-7071-44f5-aa3b-af5aef02fb98
-ms.author: nbigman@microsoft.com
+author: Nbigman
 ---
 # Enterprise rollout
 During the enterprise rollout phase, you will plan and execute your broad rollout strategy, inclusive of communications, training and support activities.

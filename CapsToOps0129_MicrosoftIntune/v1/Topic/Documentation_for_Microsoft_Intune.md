@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Documentation for Microsoft Intune
-search: na
-ms.date: 2015-11-20
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 23f29e82-d6c5-409b-bff8-58ff02540117
-ms.author: lindavr@microsoft.com
+author: Lindavr
 ---
 # Documentation for Microsoft Intune
 

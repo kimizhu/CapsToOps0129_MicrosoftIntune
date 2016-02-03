@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: What to tell your end users about using Microsoft Intune
-search: na
-ms.date: 2016-01-28
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: get-started-article
 ms.assetid: 48914533-f138-4dc0-8b93-4cea3ac61f7b
-ms.author: stacie.barker@microsoft.com
+author: Staciebarker
 ---
 # What to tell your end users about using Microsoft Intune
 <?xml version="1.0" encoding="utf-8"?>

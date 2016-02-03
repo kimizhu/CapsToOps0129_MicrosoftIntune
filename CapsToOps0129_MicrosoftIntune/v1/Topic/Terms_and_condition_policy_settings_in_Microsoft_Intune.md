@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Terms and condition policy settings in Microsoft Intune
-search: na
-ms.date: 2016-01-19
+ms.custom: na
+ms.reviewer: na
 ms.service: microsoft-intune
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 6edf0ac1-4f46-4543-a9e5-f484ac37e9a5
-ms.author: nathan.barnett@microsoft.com
+author: NathBarn
 ---
 # Terms and condition policy settings in Microsoft Intune
 You can deploy [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] terms and conditions to user groups to explain how enrollment, access to work resources, and using the company portal affect devices and users. Users must accept the terms and conditions before they can use the company portal to enroll and access their work.
