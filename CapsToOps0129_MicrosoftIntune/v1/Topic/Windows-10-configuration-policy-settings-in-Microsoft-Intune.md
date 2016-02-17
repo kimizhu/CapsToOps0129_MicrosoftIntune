@@ -10,7 +10,7 @@ ms.assetid: 00a602d9-b339-4fd8-ab70-defbf6686855
 author: robstackmsft
 ---
 # Windows 10 configuration policy settings in Microsoft Intune
-Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]**general configuration policy** for Windows 10 to configure settings for enrolled Windows 10 desktop, and Windows 10 Mobile devices:
+Use the [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)] **general configuration policy** for Windows 10 to configure settings for enrolled Windows 10 desktop, and Windows 10 Mobile devices:
 
 ## Create a Windows 10 general configuration policy
 
@@ -148,7 +148,8 @@ The new policy displays in the **Configuration Policies** node of the **Policy**
 
 |Setting name|Description|Windows 10 Desktop|Windows 10 Mobile|
 |----------------|---------------|----------------------|---------------------|
-|**Allow automatic updates**|Enable this setting to allow automatic updates. Then, configure one of the following settings to control update behavior:<br /><br />**Notify download**<br /><br />**Auto install at maintenance time**<br /><br />**Auto install and reboot at maintenance time**<br /><br />**Auto install and reboot at scheduled time** **Note:** When this option is selected, you can also configure the following settings:  **Suppress notification to end user** and **Define install day for scheduled updates**.|Yes|No|
+|**Allow automatic updates**|Enable this setting to allow automatic updates. Then, configure one of the following settings to control update behavior:<br /><br />**Notify download**<br /><br />**Auto install at maintenance time**<br /><br />**Auto install and reboot at maintenance time**<br /><br />**Auto install and reboot at scheduled time**<br><br>**Note:** When this option is selected, you can also configure the following settings:<br>**Define install day for scheduled updates**<br>**Define install time for scheduled updates**|Yes|No|
+    |**Allow pre-release features**|Use this setting to allow Microsoft to deploy pre-release settings and features to help study user preferences and device behavior.<br><br>You can choose from three options:<br>**Not allowed** - No device settings or pre-release features will be installed on the device<br>**Yes - Settings only** - Only device settings will be configured by Microsoft<br>**Yes - Settings and Experimentations** - All pre-release settings and features can be installed and configured on devices|Yes|No
 
 ## Deploy the Configuration Policy
 

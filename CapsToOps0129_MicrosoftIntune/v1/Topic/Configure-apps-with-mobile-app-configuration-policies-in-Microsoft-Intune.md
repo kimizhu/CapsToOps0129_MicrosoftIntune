@@ -48,20 +48,37 @@ You do not deploy these policies directly to users and devices. Instead, you ass
 4.  In the **Mobile App Configuration Policy** section of the page, enter or paste an  XML property list containing the app configuration settings you want into the box.
 
     > [!TIP]
-    > To find out more about XML property lists, see [Understanding XML Property Lists](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/PropertyLists/UnderstandXMLPlist/UnderstandXMLPlist.html)in the iOS Developer Library.
+    > To find out more about XML property lists, see [Understanding XML Property Lists](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/PropertyLists/UnderstandXMLPlist/UnderstandXMLPlist.html) in the iOS Developer Library.
     > 
     > The format of the XML property list will vary depending on the app you are configuring. Contact the supplier of the app for details about the exact format to use.
     > 
     > [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] supports the following data types in a property list:
     > 
-    > -   &lt;integer&gt;
-    > -   &lt;real&gt;
-    > -   &lt;string&gt;
-    > -   &lt;array&gt;
-    > -   &lt;dict&gt;
-    > -   &lt;true /&gt; or &lt;false /&gt;
+    > &lt;integer&gt;
+    > &lt;real&gt;
+    > &lt;string&gt;
+    > &lt;array&gt;
+    > &lt;dict&gt;
+    > &lt;true /&gt; or &lt;false /&gt;
     > 
     > For more information about data types, see [About Property Lists](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/PropertyLists/AboutPropertyLists/AboutPropertyLists.html) in the iOS Developer Library.
+    >
+        > Additionally, [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] supports the following token types in the property list:
+    >    
+    > \{\{userprincipalname\}\} - (Example: **Admin@AppLifecycle1localhost.contoso.com**)
+    > \{\{mail\}\} - (Example: **Admin@AppLifecycle1localhost.contoso.com**)
+    > \{\{partialupn\}\} - (Example: **Admin**)
+    > \{\{accountid\}\} - (Example: **fc0dc142-71d8-4b12-bbea-bae2a8514c81**)
+    > \{\{deviceid\}\} - (Example: **b9841cd9-9843-405f-be28-b2265c59ef97**)
+    > \{\{userid\}\} - (Example: **3ec2c00f-b125-4519-acf0-302ac3761822**)
+    > \{\{username\}\} - (Example: **Admin**)
+    > \{\{serialnumber\}\} - (Example: **F4KN99ZUG5V2**)
+    > \{\{serialnumberlast4digits\}\} - (Example: **G5V2**)
+>
+> The \{\{ and \}\} characters are used by token types only and must not be used for other purposes.
+
+
+
 
 5.  Click **Validate** to ensure that the XML you entered is in a valid property list format.
 
@@ -75,7 +92,7 @@ The new policy is displayed in the **Configuration Policies** node.
 ## Associate a mobile app configuration policy with an app
 After you have created a mobile app configuration policy, you must associate it with the iOS app to which you want the settings in the configuration policy to apply.
 
-To do this, follow the steps to create an app deployment in [Deploy apps to mobile devices in Microsoft Intune - deleted](../Topic/Deploy-apps-to-mobile-devices-in-Microsoft-Intune---deleted.md). When you reach the **Mobile App Configuration** page of the wizard, select the policy you want to associate with the app from the **App Configuration Policy** drop-down list.
+To do this, follow the steps to create an app deployment in [Deploy apps to mobile devices in Microsoft Intune](Deploy-apps-to-mobile-devices-in-Microsoft-Intune.md). When you reach the **Mobile App Configuration** page of the wizard, select the policy you want to associate with the app from the **App Configuration Policy** drop-down list.
 
 Then, continue to deploy and monitor the app deployment as usual.
 
@@ -84,7 +101,38 @@ When the deployed app is run on a device, it will run with the settings you conf
 > [!TIP]
 > If one or more mobile app configuration policies conflict, neither policy is enforced, and the conflict will be reported in the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] admin console **Dashboard**.
 
+## Example format for mobile app configuration XML file
+
+When you create a mobile app configuration file, you can specify one or more of the following values using this format:
+
+```
+<dict>
+  <key>displayname</key>
+  <string>{{userprincipalname}}</string>
+  <key>mail</key>
+  <string>{{mail}}</string>
+  <key>partialupn</key>
+  <string>{{partialupn}}</string>
+  <key>accountid</key>
+  <string>{{accountid}}</string>
+  <key>deviceid</key>
+  <string>{{deviceid}}</string>
+  <key>userid</key>
+  <string>{{userid}}</string>
+  <key>username</key>
+  <string>{{username}}</string>
+  <key>serialnumber</key>
+  <string>{{serialnumber}}</string>
+  <key>serialnumberlast4digits</key>
+  <string>{{serialnumberlast4digits}}</string>
+  <key>udidlast4digits</key>
+  <string>{{udidlast4digits}}</string>
+</dict>
+
+```
+
+
 ## See Also
-[Deploy and configure apps with Microsoft Intune](../Topic/Deploy-and-configure-apps-with-Microsoft-Intune.md)
-[Deploy apps to mobile devices in Microsoft Intune - deleted](../Topic/Deploy-apps-to-mobile-devices-in-Microsoft-Intune---deleted.md)
+[Deploy and configure apps with Microsoft Intune](Deploy-and-configure-apps-with-Microsoft-Intune.md)
+[Deploy apps to mobile devices in Microsoft Intune](Deploy-apps-to-mobile-devices-in-Microsoft-Intune.md)
 

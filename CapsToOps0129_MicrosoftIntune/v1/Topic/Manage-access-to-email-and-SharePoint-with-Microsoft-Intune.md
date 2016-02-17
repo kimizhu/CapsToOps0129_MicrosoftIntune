@@ -54,8 +54,7 @@ Office desktop applications can access Exchange Online and SharePoint Online on 
 
 -   Windows 7.0 or Windows 8.1
 
-> [!NOTE]
-> PCs should be domain joined or be complaint with the policies set in [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].
+
 
 To implement conditional access, you configure two policy types in [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]:
 
@@ -81,7 +80,7 @@ When devices do not meet the conditions you configure, the user is guided though
 Before you start using conditional access, ensure that you have the correct requirements in place:
 
 > [!IMPORTANT]
-> Conditional access does not work with devices enrolled with [device enrollment manager](https://technet.microsoft.com/en-us/library/dn764961.aspx) since the device is not linked to a user in Azure Active Directory.
+> Conditional access does not work with devices enrolled with [device enrollment manager](https://technet.microsoft.com/library/dn764961.aspx) since the device is not linked to a user in Azure Active Directory.
 
 -   [Exchange Online (using the shared multi-tenant environment)](#Exo)
 
@@ -210,17 +209,17 @@ You can setup conditional access for PCs that run Office desktop applications to
 
 -   The PC must be running Windows 7.0 or Windows 8.1.
 
--   The PC must either be domain joined or compliant.
+-   The PC must either be domain joined or compliant with the compliance policy.
 
     In order to be compliant, the PC must be enrolled in [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] and comply with the policies.
 
-    For domain joined PCs, you must  set it up to [automatically register the device](https://azure.microsoft.com/en-us/documentation/articles/active-directory-conditional-access-automatic-device-registration/) with Azure Active Directory.
+    For domain joined PCs, you must  set it up to [automatically register the device](https://azure.microsoft.com/documentation/articles/active-directory-conditional-access-automatic-device-registration/) with Azure Active Directory.
 
 -   [Office 365 modern authentication must be enabled](https://blogs.office.com/2015/03/23/office-2013-modern-authentication-public-preview-announced/), and have all the latest Office updates.
 
     Modern authentication brings Active Directory Authentication Library (ADAL) based sign-in to Office 2013 Windows clients and enables better security like **multi-factor authentication**, and **certificate-based authentication**.
 
--   Setup ADFS claims rules to block non-modern authentication protocols. Step by step instructions are detailed in scenario 3 - [block all access to O365 except browser based applications](https://technet.microsoft.com/en-us/library/dn592182.aspx).
+-   Setup ADFS claims rules to block non-modern authentication protocols. Step by step instructions are detailed in scenario 3 - [block all access to O365 except browser based applications](https://technet.microsoft.com/library/dn592182.aspx).
 
 ## Next Steps
 Read the following topics to learn how to configure compliance policies and conditional access policies for your required scenario:

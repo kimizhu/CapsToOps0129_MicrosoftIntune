@@ -27,19 +27,19 @@ If you have devices that are not enrolled in Intune, see [Get started with mobil
 
     When you deploy the managed browser, you can also configure a managed browser policy which lets you restrict the websites that users can visit. For more information, see [Manage Internet access using managed browser policies with Microsoft Intune](../Topic/Manage-Internet-access-using-managed-browser-policies-with-Microsoft-Intune.md).
 
--   [Microsoft Word](https://itunes.apple.com/us/app/microsoft-word/id586447913?mt=8)<sup>*</sup>
+-   [Microsoft Word](https://itunes.apple.com/us/app/microsoft-word/id586447913?mt=8)<sup>1</sup><sup>2</sup>
 
--   [Microsoft Excel](https://itunes.apple.com/us/app/microsoft-excel/id586683407?mt=8)<sup>*</sup>
+-   [Microsoft Excel](https://itunes.apple.com/us/app/microsoft-excel/id586683407?mt=8)<sup>1</sup><sup>2</sup>
 
--   [Microsoft PowerPoint](https://itunes.apple.com/us/app/microsoft-powerpoint/id586449534?mt=8)<sup>*</sup>
+-   [Microsoft PowerPoint](https://itunes.apple.com/us/app/microsoft-powerpoint/id586449534?mt=8)<sup>1</sup><sup>2</sup>
 
--   [Microsoft OneDrive](https://itunes.apple.com/us/app/onedrive/id477537958?mt=8)<sup>*</sup>
+-   [Microsoft OneDrive](https://itunes.apple.com/us/app/onedrive/id477537958?mt=8)<sup>1</sup><sup>2</sup>
 
 -   [Microsoft OneNote](https://itunes.apple.com/us/app/microsoft-onenote-for-iphone/id410395246?mt=8)
 
 -   [Work Folders](https://itunes.apple.com/us/app/work-folders/id950878067?mt=8) – Gives access to a location where you can store work files and access them from computers and devices, even if you are offline.
 
--   [Microsoft Outlook](https://itunes.apple.com/us/app/microsoft-outlook/id951937596?mt=8)<sup>*</sup>
+-   [Microsoft Outlook](https://itunes.apple.com/us/app/microsoft-outlook/id951937596?mt=8)<sup>1</sup><sup>2</sup>
 
 -   [Microsoft Power BI](https://itunes.apple.com/us/app/microsoft-power-bi/id929738808?mt=8)
 
@@ -49,7 +49,8 @@ If you have devices that are not enrolled in Intune, see [Get started with mobil
 
     For more information on RMS sharing app, [read the FAQ on RMS sharing app for mobile platforms](https://technet.microsoft.com/dn451248).
 
-<sup>*</sup>Supports multi-identity. This means that Intune only applies management settings to corporate accounts or data in the app.
+<sup>1</sup>Supports multi-identity. This means that Intune only applies management settings to corporate accounts or data in the app.
+<sup>2</sup>App management settings are supported for corporate accounts connected to O365 (Exchange Online or SharePoint Online). App management settings will not be applied to corporate accounts associated with other services.
 
 ### Apps for Android devices
 
@@ -71,9 +72,9 @@ If you have devices that are not enrolled in Intune, see [Get started with mobil
 
 -   [Microsoft PowerPoint](https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint)
 
--   [Microsoft OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive)<sup>*</sup>
+-   [Microsoft OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive)<sup>1</sup><sup>2</sup>
 
--   [Microsoft Outlook](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en)<sup>*</sup>
+-   [Microsoft Outlook](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en)<sup>1</sup><sup>2</sup>
 
 -   [Microsoft Power BI](https://play.google.com/store/apps/details?id=com.microsoft.powerbim)
 
@@ -83,7 +84,8 @@ If you have devices that are not enrolled in Intune, see [Get started with mobil
 
     For more information, [read the FAQ on RMS sharing app for mobile platforms](https://technet.microsoft.com/dn451248)
 
-<sup>*</sup>Supports multi-identity. This means that Intune only applies management settings to corporate accounts or data in the app.
+<sup>1</sup>Supports multi-identity. This means that Intune only applies management settings to corporate accounts or data in the app.
+<sup>2</sup>App management settings are supported for corporate accounts connected to O365 (Exchange Online or SharePoint Online). App management settings will not be applied to corporate accounts associated with other services.
 
 <sup>**</sup> These viewer apps are only supported for devices that are enrolled in Intune. For devices that are not enrolled in Intune, you can use the Microsoft Rights Management (RMS) sharing app instead. For more information see [Create and deploy mobile app management policies with Microsoft Intune](../Topic/Create-and-deploy-mobile-app-management-policies-with-Microsoft-Intune.md) and [Viewing media files with the Rights Management sharing app](../Topic/End-user-experience-for-apps-associated-with-Microsoft-Intune-mobile-app-management-policies.md#bkmk_RMS).
 

@@ -13,7 +13,7 @@ author: robstackmsft
 Use [!INCLUDE[wit_firstref](/Token/wit_firstref.xml)] **device group mapping** to group devices into categories that you define, in order to make it easier for you to manage those devices. 
 
 Device group mapping uses the following workflow:
-1. You create [!INCLUDE[wit_nextref](/Token/wit_nextref.xml)] device groups for each category you want to use.
+1. You create (or use existing) [!INCLUDE[wit_nextref](/Token/wit_nextref.xml)] device groups for each category you want to use.
 2. You configure device group mapping rules that map the category you choose to the device group you created.
 3. When end users enroll their device, they must choose a category from the categories you configured. After they choose, their device will be automatically added to the corresponding device group you created.
 4. You can then use these device groups when you deploy policies and apps.

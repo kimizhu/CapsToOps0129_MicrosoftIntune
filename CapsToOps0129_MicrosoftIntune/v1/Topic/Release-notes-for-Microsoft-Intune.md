@@ -15,7 +15,6 @@ author: Staciebarker
 -   [Installation, Deployment, and Enrollment](../Topic/Release-notes-for-Microsoft-Intune.md#BKMK_WitRelnoteInstall)
 
 -   [Alerts](../Topic/Release-notes-for-Microsoft-Intune.md#BKMK_WitRelnoteAlerts)
-- [App Management](../Topic/Release-notes-for-Microsoft-Intune.md#BKMK_WitRelnoteapps)
 
 ## <a name="BKMK_WitRelnoteInstall"></a>Installation, Deployment, and Enrollment
 The following issues can occur during client software deployment, client device preparation for [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)], or device enrollment.
@@ -46,12 +45,6 @@ The following issues can occur during client software deployment, client device 
 **Issue:** The **Microsoft App Wrapping Tool for Android** does not have built-in functionality for uninstalling the tool.
 
 **Workaround:** Browse to the location where you installed the tool, and delete the directory. The default installation location is: **C:\Program Files (x86)\Microsoft Intune Mobile Application Management\Android\App Wrapping Tool**. For more information about the app wrapping tool, see [Prepare Android apps for mobile application management](http://technet.microsoft.com/library/mt147413.aspx).
-
-## <a name="BKMK_WitRelnoteapps"></a>App Management
-### You cannot manage volume-purchased apps for iOS devices
-**Issue:** Because of an issue managing volume-purchased apps for iOS devices, we have temporarily disabled this feature in the Intune admin console.
-**Workaround:** There is no workaround for this issue. We are working on fixing this issue and restoring the feature as soon as possible and will remove this release note when the fix is implemented.
-
 
 ## Language support in the Azure preview portal
 The Azure preview portal is built on a new platform and supports the following languages - Chinese (Simplified), Chinese (Traditional), Czech, Dutch, English, German, Hungarian, Italian, Japanese, Portuguese (Brazil), Portuguese (Portugal), Russian, Spanish  

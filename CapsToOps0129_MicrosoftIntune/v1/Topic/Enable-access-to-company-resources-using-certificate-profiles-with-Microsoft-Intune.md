@@ -14,11 +14,11 @@ Certificate profiles are [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] pol
 
 You can create three types of certificate profiles:
 
--   PKCS #12 (.PFX) Certificate Profile: this can be used with Android 4.0 or later and Windows 10 (desktop and mobile) and later.
+-   PKCS #12 (.PFX) Certificate Profile: this can be used with Android 4.0 and later, iOS 7.1 and later, and Windows 10 (desktop and mobile) and later.
 
--   SCEP Certificate Profile: this can be used with iOS 6.0 and later, Mac OS X 10.9 and later, Android 4.0 or later, and Windows Phone 8.1 and later.
+-   SCEP Certificate Profile: this can be used with iOS 7.1 and later, Mac OS X 10.9 and later, Android 4.0 and later, and Windows Phone 8.1 and later.
 
--   Trusted Certificate Profile: this can be used with iOS 6.0 and later, Mac OS X 10.9 and later, Android 4.0 or later, and Windows Phone 8.1 and later.
+-   Trusted Certificate Profile: this can be used with iOS 7.1 and later, Mac OS X 10.9 and later, Android 4.0 and later, and Windows Phone 8.1 and later.
 
 |About certificate profiles|Details|
 |------------------------------|-----------|
@@ -372,14 +372,8 @@ You must create a **Trusted CA certificate profile** before you can create a **S
 
     Learn more: [Use policies to manage computers and mobile devices with Microsoft Intune](../Topic/Use-policies-to-manage-computers-and-mobile-devices-with-Microsoft-Intune.md).
 
-3.  Use the following information to configure the trusted certificate profile settings for Android, iOS, Mac OS X, Windows 8.1, or Windows Phone 8.1:
+3.  Provide the requested information to configure the trusted certificate profile settings for Android, iOS, Mac OS X, Windows 8.1, or Windows Phone 8.1. In the  **Certificate file** setting,  import the Trusted Root CA certificate (**.cer**) that you exported from your issuing CA. The **Destination store** setting applies only to devices running Windows 8.1 and later, and only if the device has more than one certificate store.
 
-    |Setting name|Platform|More information|
-    |----------------|------------|--------------------|
-    |**Name**|All|Provide a descriptive name for the certificate profile.|
-    |**Description**|All|Provide an optional description for the certificate.|
-    |**Certificate file**|All|Click **Import**, and then select the Trusted Root CA certificate (**.cer**) that you exported from your issuing CA.|
-    |**Destination store**|Windows 8.1|For devices that have more than one certificate store, select where to store the certificate. Select from:<br /><br />**Computer certificate store – Root**<br /><br />**Computer Certificate store – Intermediate**<br /><br />**User certificate store – Intermediate**<br /><br />For devices that have only one store, this setting is ignored.|
 
 4.  When you are finished, click **Save Policy**.
 
@@ -413,8 +407,8 @@ After you have created a Trusted CA certificate profile, create SCEP or .PFX cer
     |**Name**|All|Provide a descriptive name for the certificate profile.|
     |**Description**|All|Provide an optional description for the certificate.|
     |**Renewal threshold (%)**|All|Specify the percentage of the certificate lifetime that remains before the device requests renewal of the certificate.|
-    |**Key Storage Provider (KSP)**|Android <br />Windows 8.1 <br />Windows Phone 8.1|Specify where the key to the certificate will be stored. Choose from one of the following:<br /><br />**Enroll to Trusted Platform Module (TPM) if present, otherwise enroll to software KSP** - Enrolls the key to the TPM. If the TPM is not present, the key will be installed to the storage provider for the software key.<br /><br />**Enroll to Trusted Platform Module (TPM), otherwise fail** - Enrolls the key to the TPM. If the TPM module is not present, the installation will fail<br /><br />**Enroll  to Passport for Work KSP, otherwise fail (Windows 10 and later)** - Enrolls the key to Passport for Work, described in [Control Microsoft Passport settings on devices with Microsoft Intune](../Topic/Control-Microsoft-Passport-settings-on-devices-with-Microsoft-Intune.md). This option also enables you to **Require multi-factor authentication** during enrollment of devices before issuing certificates to those devices. See [Protect Windows devices with multi-factor authentication](../Topic/Protect-Windows-devices-with-multi-factor-authentication.md) for more information.<br /><br />**Enroll to Software KSP** - Enrolls the key to the storage provider for the software key.|
-    |**SCEP server URL**|All|Enter a URL (with the **http://** or **https://** prefix), then click **Add**; or select a URL, and then click **Delete**.<br /><br />For example, a SCEP server URL might resemble the following:: **https://mdmndes1.contoso.com/certsrv/mscep/mscep.dll**<br /><br />Each SCEP profile supports a single SCEP server URL.|
+    |**Key Storage Provider (KSP)**|Android <br />Windows 8.1 <br />Windows Phone 8.1|Specify where the key to the certificate will be stored. Choose from one of the following:<br /><br />**Enroll to Trusted Platform Module (TPM) if present, otherwise enroll to software KSP** - Enrolls the key to the TPM. If the TPM is not present, the key will be installed to the storage provider for the software key.<br /><br />**Enroll to Trusted Platform Module (TPM), otherwise fail** - Enrolls the key to the TPM. If the TPM module is not present, the installation will fail> <br /><br /> **Enroll to Software KSP** - Enrolls the key to the storage provider for the software key.|
+        |**SCEP server URL**|All|Enter a URL (with the **http://** or **https://** prefix), then click **Add**; or select a URL, and then click **Delete**.<br /><br />For example, a SCEP server URL might resemble the following:: **https://mdmndes1.contoso.com/certsrv/mscep/mscep.dll**<br /><br />Each SCEP profile supports a single SCEP server URL.|
     |**Subject name format**|Android <br />Windows 8.1 <br />Windows Phone 8.1|From the list, select how [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] automatically creates the subject name in the certificate request. If the certificate is for a user, you can also include the user's email address in the subject name.<br /><br />You can select **Common Name** or **Common Name and email address**.|
     |**Subject Alternative Name**|All|Select **Email Address**, **User principal name (UPN)**, or both.|
     |**Certificate validity period**|All|Specify the amount of time before the certificate expires.|
@@ -434,27 +428,19 @@ The new policy displays in the **Policy** workspace, and can now be deployed.
 
 2.  Configure one of the following policy types:
 
-    -   **Android &gt;.PFX Certificate Profile (Android 4 and later)**
 
-    -   **Windows Phone and Enrolled Windows Devices &gt; .PFX Certificate Profile (Windows 10 and later)**
 
-    -   **Windows Phone and Enrolled Windows Devices &gt; .PFX Certificate Profile (Windows Phone 10 and later)**
+-   **Android &gt;.PFX Certificate Profile (Android 4 and later)**
+
+    -   **Windows Phone and Enrolled Windows Devices &gt; PKCS #12 (.PFX)  Certificate Profile (Windows 10 and later)**
+
+    -   **Windows Phone and Enrolled Windows Devices &gt; PKCS #12 (.PFX)  Certificate Profile (Windows Phone 10 and later)**
+    
+    -    **iOS > PKCS #12 (.PFX) Certificate Profile (iOS 7.1 and later)**    
 
     Learn more: [Use policies to manage computers and mobile devices with Microsoft Intune](../Topic/Use-policies-to-manage-computers-and-mobile-devices-with-Microsoft-Intune.md).
 
-3.  Use the following information to configure the .PFX  certificate profile settings for Android, Windows 10, and Windows Phone 10:
-
-    |Setting name|Platform|More information|
-    |----------------|------------|--------------------|
-    |**Name**|Android <br />Windows 10<br />Windows Phone 10|Provide a descriptive name for the certificate profile.|
-    |**Description**|Android <br />Windows 10<br />Windows Phone 10|Provide an optional description for the certificate.|
-    |**Renewal threshold (%)**|Android <br />Windows 10<br />Windows Phone 10|Specify the percentage of the certificate lifetime that remains before the device requests renewal of the certificate.|
-    |**Certification authority**|Android <br />Windows 10<br />Windows Phone 10|Provide the FQDN of the certification authority, for example, *device.certs.contoso.com*.|
-    |**Certification authority name**|Android <br />Windows 10<br />Windows Phone 10|Provide the name of the certification authority, such as *device-contoso-CA*.|
-    |**Certification template name**|Android <br />Windows 10<br />Windows Phone 10|Provide the name of the certification template (not the display name).|
-    |**Subject name format**|Android <br />Windows 10<br />Windows Phone 10|Provide a common name or a common name and email address|
-    |**Subject alternative name**|Android <br />Windows 10<br />Windows Phone 10|Choose the subject alternative names.|
-    |**Certificate validity period**|Android <br />Windows 10<br />Windows Phone 10|Specify the amount of time before the certificate expires.|
+3.  Provide the information requested on the policy form. 
 
 4.  When you are finished, click **Save Policy**.
 

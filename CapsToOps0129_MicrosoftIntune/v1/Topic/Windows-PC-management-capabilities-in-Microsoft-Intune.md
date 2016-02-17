@@ -24,7 +24,7 @@ You can install the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] client o
 
 -   **Windows 8.1** - Professional and Enterprise versions.
 
--   **Windows 10** - Professional and Enterprise versions.
+-   **Windows 10** - Professional, Enterprise, and Education versions.
 
 **Hardware**:
 The following are minimum hardware requirements for installing the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] client:

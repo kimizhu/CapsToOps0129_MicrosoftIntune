@@ -33,19 +33,23 @@ This topic tells you what you need to get started creating mobile app management
 -   Android 4 or later
 
 ## <a name="bkmk_supportedapps"></a>Supported apps
-**iOS:**[Microsoft Word](https://itunes.apple.com/us/app/microsoft-word/id586447913?mt=8), [Microsoft Excel](https://itunes.apple.com/us/app/microsoft-excel/id586683407?mt=8), [Microsoft PowerPoint](https://itunes.apple.com/us/app/microsoft-powerpoint/id586449534?mt=8),   and [Microsoft OneDrive](https://itunes.apple.com/us/app/onedrive-cloud-storage-for/id477537958?mt=8)
+**iOS:** [Microsoft Word](https://itunes.apple.com/us/app/microsoft-word/id586447913?mt=8), [Microsoft Excel](https://itunes.apple.com/us/app/microsoft-excel/id586683407?mt=8), [Microsoft PowerPoint](https://itunes.apple.com/us/app/microsoft-powerpoint/id586449534?mt=8),   and [Microsoft OneDrive](https://itunes.apple.com/us/app/onedrive-cloud-storage-for/id477537958?mt=8)
 
-**Android:**[Microsoft OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive&hl=en), and [Microsoft Rights Management (RMS) sharing app](https://play.google.com/store/apps/details?id=com.microsoft.ipviewer&hl=en)
+**Android:** [Microsoft OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive&hl=en),
+[Microsoft Right Management (RMS) sharing app](https://play.google.com/store/apps/details?id=com.microsoft.ipviewer&hl=en)
 
-For more information on RMS sharing app, [read the FAQ on RMS sharing app for mobile platforms](https://technet.microsoft.com/dn451248).
+The RMS sharing app can be used to open and view AV, PDF and image files.  For more information, see [Viewing media files with the Rights Management sharing app](End-user-experience-for-apps-associated-with-Microsoft-Intune-mobile-app-management-policies.md#bkmk_RMS).
 
-The RMS sharing app can be used to open and view AV, PDF and image files.  For more information, see [Viewing media files with the Rights Management sharing app](../Topic/End-user-experience-for-apps-associated-with-Microsoft-Intune-mobile-app-management-policies.md#bkmk_RMS).
+For more information on RMS sharing app, read the [FAQ on RMS sharing app for mobile platforms](https://technet.microsoft.com/dn451248).
+
+
+
 
 ## <a name="bkmk_Prereqs"></a>What you need to get started
 Before you start, you'll need the following:
 
 -   A subscription to [!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)].    End-users need [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] licenses to get apps with MAM policy.
-
+-   The mobile device management authority must be set to either Intune or Configuration manager, depending on whether you are using just Intune or Configuration Manager integrated with Intune to manage your devices. If you are using O365 built-in mobile device management, you must purchase an Intune subscription and [set the mobile device management authority to Intune](Set-mobile-device-management-authority-and-configure-Microsoft-Intune.md).
 -   An Office 365 (O365) subscription and Azure Active Directory (Azure AD) to create users and assign [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] licenses.  Azure AD authenticates the user when the end-user launches the app and enters their work credentials.
 
     > [!NOTE]

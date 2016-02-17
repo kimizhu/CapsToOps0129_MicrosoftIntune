@@ -35,11 +35,11 @@ Starting in October 2015, administrators can manage users and their mobile devic
 ### Detailed comparison of capabilities
 The following tables compare the device and app management capabilities available to you when you use [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] alone, Configuration Manager alone, or a solution that uses both products.
 
-To learn more about using Configuration Manager with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], see [Manage Mobile Devices with Configuration Manager and Microsoft Intune](http://msdn.microsoft.com/en-us/library/2c6bd0e5-d436-41c8-bf38-30152d76be10).
+To learn more about using Configuration Manager with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)], see [Manage Mobile Devices with Configuration Manager and Microsoft Intune](http://msdn.microsoft.com/library/2c6bd0e5-d436-41c8-bf38-30152d76be10).
 
 #### Device support
 
-|Platform|[!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]|System Center 2012 Configuration Manager SP2|System Center 2012 Configuration Manager SP2 and [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]|
+|Platform|[!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]|System Center 2012 Configuration Manager SP2|System Center 2012 Configuration Manager SP2 or System Center Configuration Manager and [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]|
 |------------|---------------------------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 |Microsoft Windows|Yes|Yes|Yes|
 |Microsoft Windows Server|No|Yes|Yes|
@@ -54,7 +54,7 @@ To learn more about using Configuration Manager with [!INCLUDE[wit_nextref](../T
 > [!TIP]
 > Where indicated with (R2), the listed capability requires Microsoft System Center 2012 R2 Configuration Manager or later.
 
-|Scenario|[!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]|System Center 2012 Configuration Manager SP2|System Center 2012 Configuration Manager SP2 and [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]|
+|Scenario|[!INCLUDE[wit_firstref](../Token/wit_firstref_md.md)]|System Center 2012 Configuration Manager SP2|System Center 2012 Configuration Manager SP2 or System Center Configuration Manager and [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]|
 |------------|---------------------------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 |**Compliance Settings**||||
 |Deploy and customize Windows PC device configuration settings (e.g., WMI, registry)|No|Yes|Yes|

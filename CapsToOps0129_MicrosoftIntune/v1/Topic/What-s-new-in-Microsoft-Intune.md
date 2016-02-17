@@ -11,6 +11,22 @@ author: Lindavr
 ---
 # What&#39;s new in Microsoft Intune
 
+## February 2016
+
+### Changes and updates to Microsoft Company Portal
+The following changes have been made to the Company Portal in this release.
+
+**Android Company Portal app**
+
+* New screens have been added to guide users through the enrollment process and provide more information about why users should enroll and what IT administrators can and can’t see on their enrolled devices. See the [enrollment instructions](https://technet.microsoft.com/library/mt502762(TechNet.10).aspx#BKMK_andr_enroll_devc) for details.
+* Enrollment error messages are now displayed in the Company Portal app. Previously, these messages appeared in the Company Portal website. Making this change means that all error messages now appear in just one place instead of two different places.
+
+**iOS Company Portal app**
+
+* New screens have been added to guide users through the enrollment process and provide more information about why users should enroll and what IT administrators can and can’t see on their enrolled devices. See the [enrollment instructions](https://technet.microsoft.com/library/mt502762(TechNet.10).aspx#BKMK_andr_enroll_devc) for details.
+* Enrollment error messages are now displayed in the Company Portal app. Previously, these messages appeared in the Company Portal website. Making this change means that all error messages now appear in just one place instead of two different places.
+
+
 ## January 2016
 
 ### Take advantage of Windows 10 features
@@ -21,7 +37,7 @@ Intune administrators can now view the status of Windows 10 Device Health Attest
 	* Secure Boot 
 	* Code Integrity 
 
-	Read [Manage device compliance policies for Microsoft Intune](https://technet.microsoft.com/library/dn705843.aspx) for more details on the device health setting, collected data points, and the health attestation report. The [HAS service details](https://msdn.microsoft.com/en-us/library/dn934876.aspx) explains the service in depth.
+	Read [Manage device compliance policies for Microsoft Intune](https://technet.microsoft.com/library/dn705843.aspx) for more details on the device health setting, collected data points, and the health attestation report. The [HAS service details](https://msdn.microsoft.com/library/dn934876.aspx) explains the service in depth.
 
 * **Windows 10 Passport for Work Policy and certificate management**
 With Intune, you can [integrate with Microsoft Passport for Work](https://technet.microsoft.com/library/mt445510.aspx), which is an alternative sign-in method for Windows 10 that uses Active Directory or an Azure Active Directory account to replace a password, smart card, or virtual smart card. Passport lets you use a user gesture to log in instead of a password. A user gesture might be a simple PIN, biometric authentication such as Windows Hello, or an external device such as a fingerprint reader.
@@ -237,7 +253,7 @@ With this service update, this setting is no longer a requirement for conditiona
 
 **iOS** You can no longer create new app deployments to iOS devices running a version earlier than iOS 7.1. Any existing app deployments to devices running an earlier version than iOS 7.1 will continue to work and be managed by Intune.
 
-**Windows 10** Intune now supports deploying Windows 10 Universal apps using the **Windows app package** software installer type. For details and requirements, see [Get started with app deployment in Microsoft Intune](http://technet.microsoft.com/en-US/library/dn646955(TechNet.10).aspx).
+**Windows 10** Intune now supports deploying Windows 10 Universal apps using the **Windows app package** software installer type. For details and requirements, see [Get started with app deployment in Microsoft Intune](http://technet.microsoft.com/library/dn646955(TechNet.10).aspx).
 
 
 ### Changes and updates to Microsoft Company Portal apps

@@ -18,7 +18,10 @@ Now that you've [learned the basics](https://technet.microsoft.com/library/dn646
 
 -   [Monitor the app](#BKMK_Monitor)
 
-For information about how to deploy and manage apps you volume-purchased from an app store, see [Manage apps you purchased through a volume-purchase program with Microoft Intune](Manage-apps-you-purchased-through-a-volume-purchase-program-with-Microsoft-Intune.md).
+For information about how to deploy and manage apps you volume-purchased from an app store, see one of the following topics:
+* [Manage iOS apps you purchased through a volume-purchase program with Microsoft Intune](Manage-iOS-apps-you-purchased-through-a-volume-purchase-program-with-Microsoft-Intune.md)
+* [Manage apps you purchased from the Windows Store for Business with Microsoft Intune](Manage-apps-you-purchased-from-the-Windows-Store-for-Business-with-Microsoft-Intune.md)
+
 For information about how to update and retire apps, see [Update apps using Microsoft Intune](../Topic/Update-apps-using-Microsoft-Intune.md).
 
 > [!IMPORTANT]
@@ -51,7 +54,8 @@ In this procedure, you'll use the Intune Software Publisher to configure the pro
 
         |Setting|Details|
         |-----------|-----------|
-        |**Specify the URL**|Enter the app store URL of the app you want to deploy. For example, if you want to deploy the Microsoft Remote Desktop app for Android, specify **https://play.google.com/store/apps/details?id=com.microsoft.rdc.android**.<br /><br />To find the URL of the app, use a search engine to find the store page containing the app. For example, to find the Remote Desktop app, you could search **Microsoft Remote Desktop Android**.|
+        |**Specify the URL**|Specify the URL to one of the following:<br><br>The app store URL of the app you want to deploy. For example, if you want to deploy the Microsoft Remote Desktop app for Android, specify **https://play.google.com/store/apps/details?id=com.microsoft.rdc.android**. To find the URL of the app, use a search engine to find the store page containing the app. For example, to find the Remote Desktop app, you could search **Microsoft Remote Desktop Android**.<br><br>A web site. Intune will deploy a shortcut icon to the site to the device (known as a web clip).<br><br>An app on the web. Intune will deploy a shortcut icon to the app on the device.
+        |**Require a managed browser to open this link (Android and iOS only)**|When you deploy a link to a website or web app to users, they will only be able to open it in the Intune managed browser which must be installed on their device.<br><br>For more details about the managed browser, see [Manage Internet access using managed browser policies with Microsoft Intune](Manage-Internet-access-using-managed-browser-policies-with-Microsoft-Intune.md).
         This installation type does not use any of your cloud storage space.
 
     -   **Managed iOS app from the app store**, then specify:
@@ -82,7 +86,7 @@ In this procedure, you'll use the Intune Software Publisher to configure the pro
     > [!TIP]
     > The **Requirements** page is not displayed for all types of apps.
 
-5.  Further wizard pages are displayed when you choose the **Windows Installer** file type. This file type is not used by mobile devices. For more information, see [Deploy apps to Windows PCs in Microsoft Intune](../Topic/Deploy-apps-to-Windows-PCs-in-Microsoft-Intune.md).
+5.  Further wizard pages are displayed when you choose the **Windows Installer** file type. This file type is used when you deploy software to PCs running Windows 10 or later that are enrolled with Intune.
 
 6.  On the **Summary** page, review the information you specified. Once you are ready, click **Upload**.
 

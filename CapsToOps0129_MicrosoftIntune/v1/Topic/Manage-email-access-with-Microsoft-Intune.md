@@ -56,12 +56,18 @@ You can block access to Exchange email from the devices built-in Exchange Active
 
 Outlook app for iOS and Android, and Outlook desktop 2013 is supported for Exchange Online only.
 
-## Step 1: Evaluate the effect of the conditional access policy
-If you have configured a connection between [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] and Exchange by using the **Microsoft Intune service to service connector** or the **on-premises Exchange connector**, you can use the **Mobile Device Inventory Reports** to identify EAS mail clients that will be blocked from accessing Exchange after you configure the conditional access policy.
+## <a name="bkmk_Eval_FX_CAP"></a>Step 1: Evaluate the effect of the conditional access policy
+If you have configured a connection between [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] and Exchange by using the [Microsoft Intune service to service connector](Mobile-device-management-with-Exchange-ActiveSync-and-Microsoft-Intune.md#bkmk_S_S) or the [on-premises Exchange connector](Mobile-device-management-with-Exchange-ActiveSync-and-Microsoft-Intune.md#bkmk_EX_OP), you can use the **Mobile Device Inventory Reports** to identify EAS mail clients that will be blocked from accessing Exchange after you configure the conditional access policy.
 
-In the report parameters, select the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] group you want to evaluate and, if required, the device platforms to which the policy will apply.
+1.  Navigate to **Reports -> Mobile Device Inventory Reports**.
+![IntuneSA2bMobileDeviceInventoryReport](/Image/IntuneSA2bMobileDeviceInventoryReport.png)
 
-For more information about how to run reports, see [Understand Microsoft Intune operations by using reports](../Topic/Understand-Microsoft-Intune-operations-by-using-reports.md).
+2.  In the report parameters, select the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] group you want to evaluate and, if required, the device platforms to which the policy will apply.
+3.  Once you’ve selected the criteria that meets your organization’s needs, choose **View Report**.
+The Report Viewer opens in a new window.
+![IntuneSA2cViewReport](/Image/IntuneSA2cViewReport.PNG)
+
+For more information about how to run reports, see [Understand Microsoft Intune operations by using reports](Microsoft-Intune-reports.md).
 
 After you run the report, examine these four columns to determine whether a user will be blocked:
 
@@ -71,7 +77,7 @@ After you run the report, examine these four columns to determine whether a user
 
 -   **Compliant** – Indicates whether the device is compliant with any compliance policies you deployed.
 
--   **Exchange ActiveSync ID** – iOS and Android devices are required to have their Exchange ActiveSync ID associated with the device registration record in Azure Active Directory. This happens when the user clicks the Activate Email link in the quarantine email.
+-   **Exchange ActiveSync ID** – iOS and Android devices are required to have their Exchange ActiveSync ID associated with the device registration record in Azure Active Directory. This happens when the user chooses the Activate Email link in the quarantine email.
 
     > [!NOTE]
     > Windows Phone devices always display a value in this column.
@@ -84,12 +90,13 @@ Devices that are part of a targeted group will be blocked from accessing Exchang
 |Any other value|No|No|No value is displayed|Email access blocked|
 You can export the contents of the report and use the **Email Address** column to help you inform users that they will be blocked.
 
-## Step 2: Configure user groups for the conditional access policy
+## <a name="BKMK_configUserGroups"></a>Step 2: Configure user groups for the conditional access policy
 You target conditional access policies to different groups of users depending on the policy types. These groups contain the users that will be targeted, or exempt from the policy. When a user is targeted by a policy, each device they use must be compliant in order to access email.
 
 -   **For the Exchange Online policy** – to Azure Active Directory security user groups. You can configure these groups in the **Office 365 admin center**, or the **Intune account portal**.
 
 -   **For the Exchange On-premises policy** – to [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] user groups. You can configure these in the **Groups** workspace of the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] console.
+![IntuneSA4CreateGroup](/Image/IntuneSA4CreateGroup.png)
 
 You can specify two group types in each policy:
 
@@ -153,7 +160,8 @@ The message is displayed on the device for Exchange Online users and tenants in 
 
 #### <a name="BKMK_ExoCA"></a>To enable the Exchange Online policy
 
-1.  In the [Microsoft Intune administration console](https://manage.microsoft.com), click **Policy** &gt; **Conditional Access** &gt; **Exchange Online Policy**.
+1.  In the [Microsoft Intune administration console](https://manage.microsoft.com), choose **Policy** &gt; **Conditional Access** &gt; **Exchange Online Policy**.
+![IntuneSA5dExchangeOnlinePolicy](/Image/IntuneSA5dExchangeOnlinePolicy.png)
 
 2.  On the **Exchange Online Policy** page, select **Enable conditional access policy for Exchange Online**. If you check this, the device must be compliant. If this is not checked then conditional access is not applied.
 
@@ -191,7 +199,7 @@ The message is displayed on the device for Exchange Online users and tenants in 
 4.  Under **Exchange ActiveSync mail apps**, you can choose to block email from accessing Exchange Online if the device is noncompliant, and select whether to allow or block access to email when Microsoft Intune cannot manage the device.
 
 5.  Under **Targeted Groups**, select the Active Directory security groups of users to which the policy will apply. You can either choose to target all users or a selected list of user groups.
-
+![IntuneSA5eTargetedExemptedGroups](/Image/IntuneSA5eTargetedExemptedGroups.PNG)
     > [!NOTE]
     > For users that are in the Targeted groups, the Intune polices will replace Exchange rules and policies.
     > 
@@ -200,9 +208,10 @@ The message is displayed on the device for Exchange Online users and tenants in 
     > -   The user is not licensed for Intune.
     > -   The user is licensed for Intune, but the user does not belong to any security groups targeted in the conditional access policy.
 
+
 6.  Under **Exempted Groups**, select the Active Directory security groups of users that are exempt from this policy. If a user  is in both the targeted and exempted groups, they will be exempt from the policy.
 
-7.  When you are done, click **Save**.
+7.  When you are done, choose **Save**.
 
 -   You do not have to deploy the conditional access policy, it takes effect immediately.
 
@@ -217,11 +226,13 @@ The following flow is used by conditional access policies for Exchange on-premis
 
 ![](../Image/ConditionalAccess8-2.png)
 
-##### To enable the Exchange On-premises policy
+##### <a name="BKMK_enableXchngOnprem"></a>To enable the Exchange On-premises policy
 
-1.  In the [Microsoft Intune administration console](https://manage.microsoft.com), click **Policy** &gt; **Conditional Access** &gt; **Exchange On-premises policy**.
+1.  In the [Microsoft Intune administration console](https://manage.microsoft.com), choose **Policy** &gt; **Conditional Access** &gt; **Exchange On-premises policy**.
+![IntuneSA5aSelectExchOnPremPolicy](/Image/IntuneSA5aSelectExchOnPremPolicy.png)
 
 2.  Configure the policy with the settings you require:
+![IntuneSA5bExchangeOnPremPolicy](/Image/IntuneSA5bExchangeOnPremPolicy.png)
 
     |Setting|More information|
     |-----------|--------------------|
@@ -229,7 +240,7 @@ The following flow is used by conditional access policies for Exchange on-premis
     |**Default rule override - Always allow  enrolled and compliant devices to access Exchange**|When you check this option, devices that are enrolled in Intune and compliant with the compliant policies are allowed to access Exchange.  This rule overrides the **Default Rule**, which means that even if you set the **Default Rule** to quarantine or block access, enrolled and compliant devices will still be able to access Exchange.|
     |**Targeted Groups**|Select the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] user groups that must enroll their device with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] before they can access Exchange.|
     |**Exempted Groups**|Select the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] user groups that are exempt from the conditional access policy.<br /><br />Settings in this list override those in the **Targeted Groups** list.|
-    |**Platform Exceptions**|Click **Add Rule** to configure a rule that defines access levels for specified mobile device families and models.<br /><br />Because these devices can be of any type, you can also configure device types that are unsupported by [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].|
+    |**Platform Exceptions**|Choose **Add Rule** to configure a rule that defines access levels for specified mobile device families and models.<br /><br />Because these devices can be of any type, you can also configure device types that are unsupported by [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].|
     |**Default Rule**|For a device that is not covered by any of the other rules, you can choose to allow it to access Exchange, block it, or quarantine it.<br /><br />When you set the rule to allow access, for devices that are enrolled and compliant, email access is granted automatically for iOS, Windows, and Samsung Knox devices. The end-user does not have to go through any process to get their email.  On Android devices that are not Knox based, end-users will get a quarantine email which includes a guided walkthrough to verify enrollment and compliance before they can access email.<br /><br />If you set the rule to block access or quarantine it, all devices are blocked from getting access to exchange regardless of whether they are already enrolled in Intune or not. To prevent enrolled and compliant devices from being affected by this rule, check the **Default Rule Override.** **Tip:** If you intention is to first block all devices before granting access to email, checking the Block access, or Quarantine rule can be useful.<br />The default rule will apply to all device types, so device types you configure as platform exceptions and that are unsupported by [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] are also affected.|
     |**User Notification**|In addition to the notification email sent from Exchange, Intune sends an email that you can configure which contains steps to unblock the device.<br /><br />You can edit the default message and use HTML tags to format how the text appears. **Note:** Because the Intune notification email containing remediation instructions is delivered to the user’s Exchange mailbox, in the event that the user’s device gets blocked before they receive the email message, they can use an unblocked device or other method to access Exchange and view the message.This is especially true when the **Default Rule** is set to block or quarantine.  In this case, the end-user will have to go to their app store, download the Microsoft Company Portal app and enroll their device. This is applicable to iOS, Windows, and Samsung Knox devices.  For  Android devices that are not Knox-based, the IT admin will need to send the quarantine email to an alternate email account, which then  the end-user has to copy to their blocked device to complete the enrollment and compliance process.|
     > [!NOTE]
@@ -237,7 +248,7 @@ The following flow is used by conditional access policies for Exchange on-premis
     > 
     > For details, see [Configure Microsoft Intune on-premises connector for on-premises or hosted Exchange](../Topic/Mobile-device-management-with-Exchange-ActiveSync-and-Microsoft-Intune.md#bkmk_EX_OP).
 
-3.  When you are done, click **Save**.
+3.  When you are done, choose **Save**.
 
 -   You do not have to deploy the conditional access policy, it takes effect immediately.
 
@@ -251,7 +262,8 @@ The following flow is used by conditional access policies for Exchange on-premis
 
 #### To view devices that are blocked from Exchange
 
-1.  On the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] dashboard, click the **Blocked Devices from Exchange** tile to show the number of blocked devices and links to more information.
+On the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] dashboard, choose the **Blocked Devices from Exchange** tile to show the number of blocked devices and links to more information.
+![IntuneSA6BlockedDevices](/Image/IntuneSA6BlockedDevices.PNG)
 
 ## <a name="BKMK_Scenario"></a>Example Scenarios
 

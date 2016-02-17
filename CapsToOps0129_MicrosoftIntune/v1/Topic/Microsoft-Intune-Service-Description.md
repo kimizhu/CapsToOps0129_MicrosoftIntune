@@ -26,9 +26,9 @@ For a list of settings that you can configure on mobile devices, see:
 
 -   [Mobile device management capabilities in Microsoft Intune](../Topic/Mobile-device-management-capabilities-in-Microsoft-Intune.md)
 
--   [General settings for Mobile Devices in Configuration Manager](http://msdn.microsoft.com/en-us/library/cb4ee476-cb7d-444e-87af-7bd1c8e0b103)
+-   [General settings for Mobile Devices in Configuration Manager](https://technet.microsoft.com/library/dn376523.aspx)
 
-For information on System Center 2012 R2 Configuration Manager, see [Documentation Library for System Center 2012 Configuration Manager](http://msdn.microsoft.com/en-us/library/33b7b516-2d32-4e55-bd79-ed7d3ea37162).
+For information on System Center 2012 R2 Configuration Manager, see [Documentation Library for System Center 2012 Configuration Manager](https://technet.microsoft.com/library/gg682041.aspx).
 
 ## <a name="BKMK_Servupdate"></a>Understand how Intune service updates affect you
 Because [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] is an online service, Microsoft can update it on a regular basis.
@@ -37,7 +37,7 @@ Use the information in this topic to help you understand the frequency of these 
 
 To learn about changes in the  [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] service, see [What's new in Microsoft Intune](../Topic/What-s-new-in-Microsoft-Intune.md). The [Microsoft Intune Blog](http://blogs.technet.com/b/microsoftintune/) also discusses changes in the service, and provides helpful tips to enable you to get the most from  [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].
 
-Additionally, important service updates will be communicated to you directly from the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)]console in the notice board.
+Additionally, important service updates will be communicated to you directly from the [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] console in the notice board.
 
 Use this table to understand how Microsoft communicates details of service changes.
 
@@ -52,9 +52,9 @@ You can configure [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] in a numbe
 
 -   **[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] stand-alone configuration.** Use the web-based administration console in [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] to manage devices in your organization. [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] can be used without any on-premises IT infrastructure, but if you use [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] with Active Directory Domain Services, you can use domain user accounts that you manage with Domain Services with [!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)].
 
--   **[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] with System Center Configuration Manager.** Use the [!INCLUDE[cm5short](../Token/cm5short_md.md)] management console to manage computers and mobile devices in your enterprise. This configuration can help you to manage all of your organization’s devices through a single console, the [!INCLUDE[cmshort](../Token/cmshort_md.md)] Admin Console. [!INCLUDE[cmshort](../Token/cmshort_md.md)] supports very large numbers of mobile devices, servers and computers. For more information, see [How to Manage Mobile Devices by Using Configuration Manager and Microsoft Intune](http://go.microsoft.com/fwlink/?LinkID=271118) in the [Documentation Library for System Center 2012 Configuration Manager](http://msdn.microsoft.com/en-us/library/33b7b516-2d32-4e55-bd79-ed7d3ea37162).  For more help deciding which approach is right for you, see [Deleted topic](../Topic/Deleted-topic.md)
+-   **[!INCLUDE[wit_nextref](../Token/wit_nextref_md.md)] with System Center Configuration Manager.** Use the [!INCLUDE[cm5short](../Token/cm5short_md.md)] management console to manage computers and mobile devices in your enterprise. This configuration can help you to manage all of your organization’s devices through a single console, the [!INCLUDE[cmshort](../Token/cmshort_md.md)] Admin Console. [!INCLUDE[cmshort](../Token/cmshort_md.md)] supports very large numbers of mobile devices, servers and computers. For more information, see [How to Manage Mobile Devices by Using Configuration Manager and Microsoft Intune](http://go.microsoft.com/fwlink/?LinkID=271118) in the [Documentation Library for System Center 2012 Configuration Manager](https://technet.microsoft.com/library/gg682041.aspx).  For more help deciding which approach is right for you, see [Ways to do enterprise mobility](../Topic/Ways-to-do-enterprise-mobility.md).
 
--   Mobile device management provided by Office 365, as described in [Ways to do enterprise mobility](../Topic/Ways-to-do-enterprise-mobility.md)
+-   Mobile device management provided by Office 365, as described in [Ways to do enterprise mobility](../Topic/Ways-to-do-enterprise-mobility.md).
 
 ## Learn more about Intune
 Use these resources to learn more about Intune:
@@ -67,6 +67,6 @@ Use these resources to learn more about Intune:
 
 ## See Also
 [Documentation for Microsoft Intune](../Topic/Documentation-for-Microsoft-Intune.md)
-[Documentation Library for System Center 2012 Configuration Manager](http://msdn.microsoft.com/en-us/library/33b7b516-2d32-4e55-bd79-ed7d3ea37162)
+[Documentation Library for System Center 2012 Configuration Manager](https://technet.microsoft.com/library/gg682041.aspx)
 [What's new in Microsoft Intune](../Topic/What-s-new-in-Microsoft-Intune.md)
 

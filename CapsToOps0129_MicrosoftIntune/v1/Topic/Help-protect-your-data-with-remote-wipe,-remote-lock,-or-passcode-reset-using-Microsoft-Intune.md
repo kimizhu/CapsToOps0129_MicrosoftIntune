@@ -16,7 +16,7 @@ author: NathBarn
 > This topic is only about wiping devices managed by Intune. You can also use [the Azure preview portal](https://portal.azure.com) to [wipe company data from apps](https://technet.microsoft.com/library/mt627826.aspx).
 
 ## <a name="bkmk_wipe"></a>Use Retire/Wipe to help secure a lost device or to retire a device from active use
-**Full wipe** restores a device to its factory default settings, removing all company and user data and settings.     The device is removed from Intune. **Be careful about selecting full wipe; your data cannot be recovered**.
+**Full wipe** restores a device to its factory default settings, removing all company and user data and settings. The device is removed from Intune. You can do a full wipe on Windows Phone, iOS, Android, and Windows 10 devices. **Be careful about selecting full wipe; your data cannot be recovered**.
 
 **Selective wipe** removes company data from a device.   The device is removed from Intune. The following tables describe by platform what data is removed and the effect on data that remains on the device after a selective wipe.
 
